@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kickstarter Graveyard</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+            min-height: 100vh;
+            color: #e4e4e4;
+        }
+
+        .header {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 40px 20px;
+            text-align: center;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .header h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            color: #ff6b6b;
+        }
+
+        .header p {
+            color: #888;
+            font-size: 1.1rem;
+        }
+
+        .stats {
+            display: flex;
+            justify-content: center;
+            gap: 40px;
+            padding: 30px 20px;
+            flex-wrap: wrap;
+            background: rgba(0, 0, 0, 0.2);
+        }
+
+        .stat-card {
+            text-align: center;
+            padding: 20px 40px;
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 12px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .stat-card .number {
+            font-size: 2.5rem;
+            font-weight: bold;
+            color: #ff6b6b;
+        }
+
+        .stat-card .label {
+            color: #888;
+            margin-top: 5px;
+            font-size: 0.9rem;
+            text-transform: uppercase;
+            letter-spacing: 1px;
+        }
+
+        .controls {
+            padding: 20px;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+            background: rgba(0, 0, 0, 0.1);
+        }
+
+        .search-box {
+            padding: 12px 20px;
+            font-size: 1rem;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 8px;
+            background: rgba(255, 255, 255, 0.1);
+            color: #fff;
+            width: 300px;
+        }
+
+        .search-box::placeholder {
+            color: #666;
+        }
+
+        .filter-select {
+            padding: 12px 20px;
+            font-size: 1rem;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 8px;
+            background: rgba(255, 255, 255, 0.1);
+            color: #fff;
+            cursor: pointer;
+        }
+
+        .filter-select option {
+            background: #1a1a2e;
+        }
+
+        .sort-btn {
+            padding: 12px 20px;
+            font-size: 1rem;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            border-radius: 8px;
+            background: rgba(255, 255, 255, 0.1);
+            color: #fff;
+            cursor: pointer;
+            transition: background 0.3s;
+        }
+
+        .sort-btn:hover {
+            background: rgba(255, 255, 255, 0.2);
+        }
+
+        .sort-btn.active {
+            background: #ff6b6b;
+            border-color: #ff6b6b;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+            padding: 30px 20px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(400px, 1fr));
+            gap: 25px;
+        }
+
+        .card {
+            background: rgba(255, 255, 255, 0.05);
+            border-radius: 16px;
+            overflow: hidden;
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            transition: transform 0.3s, box-shadow 0.3s;
+        }
+
+        .card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        .card-content {
+            padding: 20px;
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 15px;
+        }
+
+        .card-title {
+            font-size: 1.3rem;
+            color: #fff;
+            flex: 1;
+        }
+
+        .card-title a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        .card-title a:hover {
+            color: #ff6b6b;
+        }
+
+        .card-category {
+            background: rgba(255, 107, 107, 0.2);
+            color: #ff6b6b;
+            padding: 4px 10px;
+            border-radius: 20px;
+            font-size: 0.75rem;
+            white-space: nowrap;
+            margin-left: 10px;
+        }
+
+        .card-stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 15px;
+            margin-bottom: 15px;
+            padding: 15px;
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+        }
+
+        .card-stat {
+            text-align: center;
+        }
+
+        .card-stat .value {
+            font-size: 1.1rem;
+            font-weight: bold;
+            color: #4ecdc4;
+        }
+
+        .card-stat .label {
+            font-size: 0.7rem;
+            color: #666;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .card-dates {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.8rem;
+            color: #666;
+            margin-bottom: 15px;
+            padding-bottom: 15px;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        }
+
+        .failure-reason {
+            font-size: 0.9rem;
+            line-height: 1.6;
+            color: #bbb;
+        }
+
+        .card-footer {
+            margin-top: 15px;
+            padding-top: 15px;
+            border-top: 1px solid rgba(255, 255, 255, 0.1);
+            display: flex;
+            gap: 10px;
+        }
+
+        .source-link {
+            font-size: 0.8rem;
+            color: #4ecdc4;
+            text-decoration: none;
+            padding: 5px 10px;
+            background: rgba(78, 205, 196, 0.1);
+            border-radius: 5px;
+            transition: background 0.3s;
+        }
+
+        .source-link:hover {
+            background: rgba(78, 205, 196, 0.2);
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 60px 20px;
+            color: #666;
+            font-size: 1.2rem;
+        }
+
+        @media (max-width: 500px) {
+            .grid {
+                grid-template-columns: 1fr;
+            }
+
+            .header h1 {
+                font-size: 1.8rem;
+            }
+
+            .stats {
+                gap: 15px;
+            }
+
+            .stat-card {
+                padding: 15px 25px;
+            }
+
+            .stat-card .number {
+                font-size: 1.8rem;
+            }
+
+            .search-box {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Kickstarter Graveyard</h1>
+        <p>A database of failed Kickstarter hardware projects</p>
+    </div>
+
+    <div class="stats">
+        <div class="stat-card">
+            <div class="number" id="total-projects">0</div>
+            <div class="label">Failed Projects</div>
+        </div>
+        <div class="stat-card">
+            <div class="number" id="total-lost">$0</div>
+            <div class="label">Total Lost</div>
+        </div>
+        <div class="stat-card">
+            <div class="number" id="total-backers">0</div>
+            <div class="label">Backers Affected</div>
+        </div>
+    </div>
+
+    <div class="controls">
+        <input type="text" class="search-box" id="search" placeholder="Search projects...">
+        <select class="filter-select" id="category-filter">
+            <option value="">All Categories</option>
+        </select>
+        <button class="sort-btn active" data-sort="amount" id="sort-amount">Sort by Amount</button>
+        <button class="sort-btn" data-sort="date" id="sort-date">Sort by Date</button>
+        <button class="sort-btn" data-sort="backers" id="sort-backers">Sort by Backers</button>
+    </div>
+
+    <div class="container">
+        <div class="grid" id="projects-grid"></div>
+        <div class="no-results" id="no-results" style="display: none;">No projects found matching your search.</div>
+    </div>
+
+    <script>
+        let projects = [];
+        let currentSort = 'amount';
+        let sortDirection = -1; // -1 for descending
+
+        async function loadData() {
+            try {
+                const response = await fetch('data/graveyard.json');
+                projects = await response.json();
+                updateStats();
+                populateCategories();
+                renderProjects();
+            } catch (error) {
+                console.error('Error loading data:', error);
+                document.getElementById('projects-grid').innerHTML = '<p style="color: #ff6b6b; text-align: center; padding: 40px;">Error loading data. Make sure graveyard.json is in the data folder.</p>';
+            }
+        }
+
+        function updateStats() {
+            const totalLost = projects.reduce((sum, p) => sum + p.amount_raised, 0);
+            const totalBackers = projects.reduce((sum, p) => sum + p.backers, 0);
+
+            document.getElementById('total-projects').textContent = projects.length;
+            document.getElementById('total-lost').textContent = '$' + formatNumber(totalLost);
+            document.getElementById('total-backers').textContent = formatNumber(totalBackers);
+        }
+
+        function populateCategories() {
+            const categories = [...new Set(projects.map(p => p.category))].sort();
+            const select = document.getElementById('category-filter');
+            categories.forEach(cat => {
+                const option = document.createElement('option');
+                option.value = cat;
+                option.textContent = cat;
+                select.appendChild(option);
+            });
+        }
+
+        function formatNumber(num) {
+            if (num >= 1000000) {
+                return (num / 1000000).toFixed(1) + 'M';
+            } else if (num >= 1000) {
+                return (num / 1000).toFixed(0) + 'K';
+            }
+            return num.toLocaleString();
+        }
+
+        function formatCurrency(num) {
+            return '$' + num.toLocaleString();
+        }
+
+        function getFilteredProjects() {
+            const searchTerm = document.getElementById('search').value.toLowerCase();
+            const categoryFilter = document.getElementById('category-filter').value;
+
+            let filtered = projects.filter(p => {
+                const matchesSearch = p.name.toLowerCase().includes(searchTerm) ||
+                                     p.failure_reason.toLowerCase().includes(searchTerm) ||
+                                     p.category.toLowerCase().includes(searchTerm);
+                const matchesCategory = !categoryFilter || p.category === categoryFilter;
+                return matchesSearch && matchesCategory;
+            });
+
+            // Sort
+            filtered.sort((a, b) => {
+                let aVal, bVal;
+                switch (currentSort) {
+                    case 'amount':
+                        aVal = a.amount_raised;
+                        bVal = b.amount_raised;
+                        break;
+                    case 'date':
+                        aVal = new Date(a.funded_date);
+                        bVal = new Date(b.funded_date);
+                        break;
+                    case 'backers':
+                        aVal = a.backers;
+                        bVal = b.backers;
+                        break;
+                }
+                return (aVal > bVal ? 1 : -1) * sortDirection;
+            });
+
+            return filtered;
+        }
+
+        function renderProjects() {
+            const grid = document.getElementById('projects-grid');
+            const noResults = document.getElementById('no-results');
+            const filtered = getFilteredProjects();
+
+            if (filtered.length === 0) {
+                grid.innerHTML = '';
+                noResults.style.display = 'block';
+                return;
+            }
+
+            noResults.style.display = 'none';
+            grid.innerHTML = filtered.map(project => `
+                <div class="card">
+                    <div class="card-content">
+                        <div class="card-header">
+                            <h2 class="card-title">
+                                <a href="${project.kickstarter_url}" target="_blank" rel="noopener">${project.name}</a>
+                            </h2>
+                            <span class="card-category">${project.category.split('/').pop()}</span>
+                        </div>
+                        <div class="card-stats">
+                            <div class="card-stat">
+                                <div class="value">${formatCurrency(project.amount_raised)}</div>
+                                <div class="label">Raised</div>
+                            </div>
+                            <div class="card-stat">
+                                <div class="value">${formatNumber(project.backers)}</div>
+                                <div class="label">Backers</div>
+                            </div>
+                            <div class="card-stat">
+                                <div class="value">${formatCurrency(project.goal)}</div>
+                                <div class="label">Goal</div>
+                            </div>
+                        </div>
+                        <div class="card-dates">
+                            <span>Funded: ${project.funded_date}</span>
+                            <span>Last Update: ${project.last_update}</span>
+                        </div>
+                        <p class="failure-reason">${project.failure_reason}</p>
+                        <div class="card-footer">
+                            ${project.sources.map((src, i) => `
+                                <a href="${src}" target="_blank" rel="noopener" class="source-link">Source ${i + 1}</a>
+                            `).join('')}
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // Event listeners
+        document.getElementById('search').addEventListener('input', renderProjects);
+        document.getElementById('category-filter').addEventListener('change', renderProjects);
+
+        document.querySelectorAll('.sort-btn').forEach(btn => {
+            btn.addEventListener('click', () => {
+                const sort = btn.dataset.sort;
+                if (currentSort === sort) {
+                    sortDirection *= -1;
+                } else {
+                    currentSort = sort;
+                    sortDirection = -1;
+                }
+                document.querySelectorAll('.sort-btn').forEach(b => b.classList.remove('active'));
+                btn.classList.add('active');
+                renderProjects();
+            });
+        });
+
+        // Load data on page load
+        loadData();
+    </script>
+</body>
+</html>
