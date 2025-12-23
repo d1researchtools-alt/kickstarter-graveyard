@@ -350,26 +350,6 @@
     ]
   },
   {
-    "name": "Pebble 2, Time 2 + Core",
-    "kickstarter_url": "https://www.kickstarter.com/projects/getpebble/pebble-2-time-2-and-core-an-entirely-new-3g-ultra",
-    "image_url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800",
-    "amount_raised": 12779843,
-    "backers": 66673,
-    "goal": 1000000,
-    "funded_date": "2016-06-30",
-    "last_update": "2016-12-07",
-    "category": "Technology/Wearables",
-    "failure_reason": "Company sold to Fitbit for $23M in December 2016, just 5 months after campaign ended. Time 2 and Pebble Core were cancelled entirely - never produced. Backers received partial refunds ($70 on $179 pledges). Pebble 2 shipped but services discontinued June 2018.",
-    "sources": [
-      "https://www.kickstarter.com/projects/getpebble/pebble-2-time-2-and-core-an-entirely-new-3g-ultra",
-      "https://gizmodo.com/pebble-is-dead-and-its-customers-are-completely-screwe-1789775408"
-    ],
-    "tags": [
-      "Company Shutdown",
-      "Never Delivered"
-    ]
-  },
-  {
     "name": "Yomee Yogurt Maker",
     "kickstarter_url": "https://www.kickstarter.com/projects/leckerlabs/yomee",
     "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800",
@@ -410,7 +390,7 @@
   },
   {
     "name": "Lily Drone",
-    "kickstarter_url": "https://www.indiegogo.com/projects/lily-camera-the-drone-that-follows-you",
+    "kickstarter_url": "https://en.wikipedia.org/wiki/Lily_Robotics",
     "image_url": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=800",
     "amount_raised": 34000000,
     "backers": 60000,
@@ -418,10 +398,10 @@
     "funded_date": "2015-05-12",
     "last_update": "2017-01-12",
     "category": "Technology/Drones",
-    "failure_reason": "Throw-and-fly camera drone raised $34M in pre-orders but promotional video was faked using GoPro cameras on DJI drones. SF District Attorney filed fraud lawsuit. Company shut down January 2017, filed Chapter 11 bankruptcy. San Francisco police raided offices. Most backers never received refunds.",
+    "failure_reason": "Note: Not a Kickstarter/Indiegogo campaign - took $34M in pre-orders through their own website (lily.camera). Promotional video was faked using GoPro cameras on DJI drones. SF District Attorney filed fraud lawsuit for misleading customers. Company shut down January 2017, filed Chapter 11 bankruptcy. Most backers never received refunds.",
     "sources": [
-      "https://www.indiegogo.com/projects/lily-camera-the-drone-that-follows-you",
-      "https://en.wikipedia.org/wiki/Lily_Robotics"
+      "https://en.wikipedia.org/wiki/Lily_Robotics",
+      "https://techcrunch.com/2017/01/11/unable-to-fund-production-of-its-camera-drone-lily-will-shut-down-and-refund-customers/"
     ],
     "tags": [
       "Fraud/Scam",
