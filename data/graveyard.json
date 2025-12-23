@@ -1,21 +1,5 @@
 [
   {
-    "name": "Coolest Cooler",
-    "kickstarter_url": "https://www.kickstarter.com/projects/ryangrepper/coolest-cooler-21st-century-cooler-thats-actually",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Coolest_Cooler.jpg/1200px-Coolest_Cooler.jpg",
-    "amount_raised": 13285226,
-    "backers": 62642,
-    "goal": 50000,
-    "funded_date": "2014-08-30",
-    "last_update": "2019-12-06",
-    "category": "Design/Product Design",
-    "failure_reason": "Manufacturing costs exceeded the $165-$185 price charged to backers, resulting in losses on every unit. Over 20,000 backers never received their coolers before the company shut down in December 2019.",
-    "sources": [
-      "https://www.kickstarter.com/projects/ryangrepper/coolest-cooler-21st-century-cooler-thats-actually",
-      "https://www.failory.com/blog/kickstarter-fails"
-    ]
-  },
-  {
     "name": "ZANO Drone",
     "kickstarter_url": "https://www.kickstarter.com/projects/torquing/zano-autonomous-intelligent-swarming-nano-drone",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ZANO_Drone_at_V%26A_Museum.jpg/800px-ZANO_Drone_at_V%26A_Museum.jpg",
@@ -29,38 +13,13 @@
     "sources": [
       "https://www.kickstarter.com/projects/torquing/zano-autonomous-intelligent-swarming-nano-drone",
       "https://en.wikipedia.org/wiki/Zano_(drone)"
-    ]
-  },
-  {
-    "name": "CST-01: The World's Thinnest Watch",
-    "kickstarter_url": "https://www.kickstarter.com/projects/1655017763/cst-01-the-worlds-thinnest-watch",
-    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800",
-    "amount_raised": 1026293,
-    "backers": 7658,
-    "goal": 200000,
-    "funded_date": "2013-02-22",
-    "last_update": "2016-05-02",
-    "category": "Design/Product Design",
-    "failure_reason": "Manufacturing partner Flextronics withdrew support. Watch cost $260 to produce vs $129 pledge price. Only 80 units shipped before Central Standard Timing filed for bankruptcy with $30K assets against $891K liabilities.",
-    "sources": [
-      "https://www.kickstarter.com/projects/1655017763/cst-01-the-worlds-thinnest-watch",
-      "https://www.slashgear.com/cst-01-watch-officially-dead-company-files-for-bankruptcy-02438606/"
-    ]
-  },
-  {
-    "name": "OUYA",
-    "kickstarter_url": "https://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console",
-    "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Ouya-console-set.png/800px-Ouya-console-set.png",
-    "amount_raised": 8596474,
-    "backers": 63416,
-    "goal": 950000,
-    "funded_date": "2012-08-09",
-    "last_update": "2019-06-25",
-    "category": "Games/Hardware",
-    "failure_reason": "Console suffered from hardware defects (weak Wi-Fi, sticky controller buttons), poor game library, and shipped to retail before Kickstarter backers received theirs. Acquired by Razer in 2015, servers shut down June 2019.",
-    "sources": [
-      "https://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console",
-      "https://www.failory.com/blog/kickstarter-fails"
+    ],
+    "tags": [
+      "Fraud/Scam",
+      "Ran Out of Money",
+      "Partial Delivery",
+      "Shipping Problems",
+      "Overpromised"
     ]
   },
   {
@@ -77,6 +36,9 @@
     "sources": [
       "https://www.kickstarter.com/projects/getpebble/pebble-time-awesome-smartwatch-no-compromises",
       "https://medium.com/@ericmigi/why-pebble-failed-d7be937c6232"
+    ],
+    "tags": [
+      "Company Shutdown"
     ]
   },
   {
@@ -93,6 +55,11 @@
     "sources": [
       "https://www.kickstarter.com/projects/tiko3d/tiko-the-unibody-3d-printer",
       "https://www.failory.com/blog/kickstarter-fails"
+    ],
+    "tags": [
+      "Manufacturing Issues",
+      "Never Delivered",
+      "Partial Delivery"
     ]
   },
   {
@@ -109,6 +76,10 @@
     "sources": [
       "https://www.kickstarter.com/projects/1041610927/znaps-the-9-magnetic-adapter-for-your-mobile-devic",
       "https://www.alphr.com/life-culture/1005211/kickstarter-success-znaps-is-ignoring-its-backers-and-selling-directly-to-the/"
+    ],
+    "tags": [
+      "Fraud/Scam",
+      "Shipping Problems"
     ]
   },
   {
@@ -125,6 +96,11 @@
     "sources": [
       "https://www.kickstarter.com/projects/amabrush/amabrush-worlds-first-automatic-toothbrush",
       "https://www.failory.com/blog/kickstarter-fails"
+    ],
+    "tags": [
+      "Manufacturing Issues",
+      "Ran Out of Money",
+      "Poor Quality"
     ]
   },
   {
@@ -141,38 +117,11 @@
     "sources": [
       "https://www.kickstarter.com/projects/ibackpack/ibackpack-20-3g-4g-mi-fi-bulletproof-bluetooth-aud",
       "https://www.ftc.gov/news-events/news/press-releases/2020/05/operator-deceptive-crowdfunding-scheme-banned-future-crowdfunding-part-ftc-settlement"
-    ]
-  },
-  {
-    "name": "Peachy Printer",
-    "kickstarter_url": "https://www.kickstarter.com/projects/117421627/the-peachy-printer-the-first-100-3d-printer-and-sc",
-    "image_url": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789?w=800",
-    "amount_raised": 651091,
-    "backers": 4420,
-    "goal": 50000,
-    "funded_date": "2013-10-21",
-    "last_update": "2017-01-15",
-    "category": "Technology/3D Printing",
-    "failure_reason": "Co-founder David Boe embezzled CA$324,000 of Kickstarter funds to build personal house. Despite clever working prototype, project collapsed in 2017 after embezzlement exposed. No printers delivered to backers.",
-    "sources": [
-      "https://www.kickstarter.com/projects/117421627/the-peachy-printer-the-first-100-3d-printer-and-sc",
-      "https://3dprint.com/133842/peachy-printer-embezzlement/"
-    ]
-  },
-  {
-    "name": "Pirate3D Buccaneer",
-    "kickstarter_url": "https://www.kickstarter.com/projects/pirate3d/the-buccaneer-the-3d-printer-that-everyone-can-use",
-    "image_url": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800",
-    "amount_raised": 1438765,
-    "backers": 3520,
-    "goal": 100000,
-    "funded_date": "2013-07-28",
-    "last_update": "2016-10-07",
-    "category": "Technology/3D Printing",
-    "failure_reason": "Ran out of money after shipping only 40% of orders. Recent college graduates with no manufacturing experience couldn't handle production costs and $600 international shipping fees. Company officially walked away from project in 2016.",
-    "sources": [
-      "https://www.kickstarter.com/projects/pirate3d/the-buccaneer-the-3d-printer-that-everyone-can-use",
-      "https://techcrunch.com/2015/10/14/a-1-5m-kickstarter-project-fails-leaving-most-backers-without-their-3d-printer/"
+    ],
+    "tags": [
+      "Fraud/Scam",
+      "Manufacturing Issues",
+      "Never Delivered"
     ]
   },
   {
@@ -189,6 +138,12 @@
     "sources": [
       "https://www.kickstarter.com/projects/248983394/ossic-x-the-first-3d-audio-headphones-calibrated-t",
       "https://www.washingtonpost.com/news/the-switch/wp/2018/05/22/10200-people-gave-this-kickstarter-startup-for-3d-headphones-nearly-3-million-they-have-nothing-to-show-for-it/"
+    ],
+    "tags": [
+      "Manufacturing Issues",
+      "Ran Out of Money",
+      "Company Shutdown",
+      "Partial Delivery"
     ]
   },
   {
@@ -205,86 +160,12 @@
     "sources": [
       "https://www.kickstarter.com/projects/andromium/the-superbook-turn-your-smartphone-into-a-laptop-f",
       "https://www.androidpolice.com/2019/04/30/superbook-kickstarter-runs-out-of-money-after-shipping-75-of-phone-to-laptop-pre-orders/"
-    ]
-  },
-  {
-    "name": "Zim 3D Printer",
-    "kickstarter_url": "https://www.kickstarter.com/projects/1410146982/zim-the-first-dual-head-personal-3d-printer-fully",
-    "image_url": "https://images.unsplash.com/photo-1581092162384-8987c1d64718?w=800",
-    "amount_raised": 347445,
-    "backers": 344,
-    "goal": 300000,
-    "funded_date": "2013-10-23",
-    "last_update": "2015-07-18",
-    "category": "Technology/3D Printing",
-    "failure_reason": "Company collapsed in July 2015 after CEO was critically injured in car accident. Other founders left, all support and shipping ceased. Printer required heavy support but was closed-source, leaving backers stranded.",
-    "sources": [
-      "https://www.kickstarter.com/projects/1410146982/zim-the-first-dual-head-personal-3d-printer-fully",
-      "https://www.3dprintingjournal.com/p/09-11-2013-the-swiss-company-zeepro"
-    ]
-  },
-  {
-    "name": "Bragi Dash",
-    "kickstarter_url": "https://www.kickstarter.com/projects/hellobragi/the-dash-wireless-smart-in-ear-headphones",
-    "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800",
-    "amount_raised": 3390551,
-    "backers": 15998,
-    "goal": 260000,
-    "funded_date": "2014-03-22",
-    "last_update": "2019-04-01",
-    "category": "Technology/Sound",
-    "failure_reason": "Despite delivering products, company struggled with hardware development issues and poor Bluetooth pairing. Unable to compete with Apple AirPods, Bragi sold its entire hardware business in April 2019 and pivoted to software-only.",
-    "sources": [
-      "https://www.kickstarter.com/projects/hellobragi/the-dash-wireless-smart-in-ear-headphones",
-      "https://www.wareable.com/hearables/bragi-exits-consumer-wearables-hearables-7132"
-    ]
-  },
-  {
-    "name": "Arist Coffee Maker",
-    "kickstarter_url": "https://www.kickstarter.com/projects/236195807/arist-brews-coffee-like-the-best-baristas-anytime",
-    "image_url": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=800",
-    "amount_raised": 845139,
-    "backers": 2519,
-    "goal": 120000,
-    "funded_date": "2014-11-05",
-    "last_update": "2017-09-27",
-    "category": "Technology/Hardware",
-    "failure_reason": "Creators disappeared after multiple missed shipping deadlines. Connected to serial scam team (Nbition/Chiu brothers) behind ZNAPS and Toasteroid. Prototype was allegedly just a Jura coffee machine. Launch party attendees were paid actors given cash refunds.",
-    "sources": [
-      "https://www.kickstarter.com/projects/236195807/arist-brews-coffee-like-the-best-baristas-anytime",
-      "https://aristscam.com/"
-    ]
-  },
-  {
-    "name": "ZionEyez Eyez",
-    "kickstarter_url": "https://www.kickstarter.com/projects/zioneyez/eyeztm-by-zioneyez-hd-video-recording-glasses-for",
-    "image_url": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=800",
-    "amount_raised": 343415,
-    "backers": 2106,
-    "goal": 55000,
-    "funded_date": "2011-07-31",
-    "last_update": "2012-04-10",
-    "category": "Technology/Hardware",
-    "failure_reason": "Creators went completely silent after Spring 2012. Raised 6x their goal but delivered nothing. Photo of team on beach in Thailand surfaced on Facebook then was deleted. Backers formed 'ZionKick' forum to organize against the scam.",
-    "sources": [
-      "https://www.kickstarter.com/projects/zioneyez/eyeztm-by-zioneyez-hd-video-recording-glasses-for",
-      "https://www.geekwire.com/2013/kickstarters-biggest-flops-dead/"
-    ]
-  },
-  {
-    "name": "SOAP Router",
-    "kickstarter_url": "https://www.kickstarter.com/projects/soaprouter/soap-first-smart-router-w-touch-display-powered-by",
-    "image_url": "https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=800",
-    "amount_raised": 142112,
-    "backers": 830,
-    "goal": 80000,
-    "funded_date": "2014-02-27",
-    "last_update": "2015-01-31",
-    "category": "Technology/Hardware",
-    "failure_reason": "Project was exposed as likely scam from day one - lifted images from unrelated open source projects, no working prototype, impossible specs (Gigabit on chip that couldn't do it). Raised $400K total across platforms, delivered nothing.",
-    "sources": [
-      "https://www.kickstarter.com/projects/soaprouter/soap-first-smart-router-w-touch-display-powered-by",
-      "https://hackaday.com/2014/03/07/soap-the-home-automation-router-and-kickstarter-scam/"
+    ],
+    "tags": [
+      "Manufacturing Issues",
+      "Ran Out of Money",
+      "Never Delivered",
+      "Shipping Problems"
     ]
   },
   {
@@ -301,22 +182,9 @@
     "sources": [
       "https://www.kickstarter.com/projects/258723592/toasteroid-first-app-controlled-smart-image-toaste",
       "https://dandesim.one/2017/03/15/nbition-kickstarter-scam-znaps"
-    ]
-  },
-  {
-    "name": "Lix 3D Pen",
-    "kickstarter_url": "https://www.kickstarter.com/projects/lix3d/lix-the-smallest-3d-printing-pen-in-the-world",
-    "image_url": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=800",
-    "amount_raised": 1097535,
-    "backers": 8030,
-    "goal": 30000,
-    "funded_date": "2014-05-30",
-    "last_update": "2016-03-15",
-    "category": "Technology/Hardware",
-    "failure_reason": "Analysts proved with physics that USB power (4.5W) was insufficient to melt filament as advertised (needed 24W like 3Doodler). Promo video was sped up dramatically. Years of delays, backers waited 2+ years. Company eventually went silent.",
-    "sources": [
-      "https://www.kickstarter.com/projects/lix3d/lix-the-smallest-3d-printing-pen-in-the-world",
-      "https://hackaday.com/2014/05/03/ask-hackaday-can-the-lix-3d-printing-pen-actually-work/"
+    ],
+    "tags": [
+      "Fraud/Scam"
     ]
   },
   {
@@ -333,38 +201,12 @@
     "sources": [
       "https://www.kickstarter.com/projects/681827929/sansaire-delta-make-perfect-cooking-even-easier",
       "https://thespoon.tech/sansaire-announces-it-is-shutting-down/"
-    ]
-  },
-  {
-    "name": "ZPM Espresso",
-    "kickstarter_url": "https://www.kickstarter.com/projects/zpmespresso/pid-controlled-espresso-machine",
-    "image_url": "https://images.unsplash.com/photo-1510591509098-f4fdc6d0ff04?w=800",
-    "amount_raised": 369569,
-    "backers": 1500,
-    "goal": 20000,
-    "funded_date": "2012-01-15",
-    "last_update": "2015-01-20",
-    "category": "Food/Kitchen",
-    "failure_reason": "After 3 years of delays, announced in January 2015 would not deliver machines or refund backers. COO left taking most of team. 300+ backers filed class action lawsuit. Technology eventually licensed to Decent Espresso.",
-    "sources": [
-      "https://www.kickstarter.com/projects/zpmespresso/pid-controlled-espresso-machine",
-      "https://sprudge.com/kickstarters-infamous-zpm-espresso-machine-is-officially-cancelled-68674.html"
-    ]
-  },
-  {
-    "name": "La Fenice",
-    "kickstarter_url": "https://www.kickstarter.com/projects/2106260358/la-fenice-worlds-first-induction-coffee-machine",
-    "image_url": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?w=800",
-    "amount_raised": 215957,
-    "backers": 565,
-    "goal": 70000,
-    "funded_date": "2014-06-11",
-    "last_update": "2017-12-22",
-    "category": "Food/Kitchen",
-    "failure_reason": "World's first induction espresso machine raised 3x goal but failed to enter production. Project went silent after December 2017 update, over 7 years ago. No machines delivered to backers despite promising revolutionary technology.",
-    "sources": [
-      "https://www.kickstarter.com/projects/2106260358/la-fenice-worlds-first-induction-coffee-machine",
-      "https://www.kicktraq.com/projects/2106260358/la-fenice-worlds-first-induction-coffee-machine/"
+    ],
+    "tags": [
+      "Manufacturing Issues",
+      "Ran Out of Money",
+      "Company Shutdown",
+      "Never Delivered"
     ]
   },
   {
@@ -381,6 +223,9 @@
     "sources": [
       "https://www.kickstarter.com/projects/qubestove/qstoves-electriq12-the-versaitlle-12-electric-pizza-oven",
       "https://palapizza.com/guide/qstove-electriq-pizza-oven/"
+    ],
+    "tags": [
+      "Shipping Problems"
     ]
   },
   {
@@ -397,6 +242,9 @@
     "sources": [
       "https://www.kickstarter.com/projects/picobrew/pico-c-craft-brewing-for-all",
       "https://www.americancraftbeer.com/113312-2/"
+    ],
+    "tags": [
+      "Ran Out of Money"
     ]
   },
   {
@@ -413,6 +261,10 @@
     "sources": [
       "https://www.kickstarter.com/projects/conorblewis/fort-magnetic-pillow-fort",
       "https://www.stltoday.com/news/local/business/recall-caps-meteoric-rise-downward-spiral-for-fort-toy-created-by-st-louis-entrepreneur/article_7c5139a6-6d54-11ee-a16d-7fbe5581168c.html"
+    ],
+    "tags": [
+      "Manufacturing Issues",
+      "Shipping Problems"
     ]
   },
   {
@@ -429,6 +281,12 @@
     "sources": [
       "https://www.kickstarter.com/projects/1162110258/darkest-dungeon-the-board-game",
       "https://boardgamewire.com/index.php/2025/12/10/darkest-dungeon-board-game-maker-mythic-games-officially-liquidated-fails-to-deliver-on-millions-of-dollars-worth-of-crowdfunding-projects/"
+    ],
+    "tags": [
+      "Manufacturing Issues",
+      "Ran Out of Money",
+      "Never Delivered",
+      "Shipping Problems"
     ]
   },
   {
@@ -445,6 +303,11 @@
     "sources": [
       "https://www.kickstarter.com/projects/1162110258/hel-the-last-saga",
       "https://boardgamewire.com/index.php/2024/01/27/mythic-games-fails-to-deliver-on-two-kickstarter-projects-worth-3-2m-sells-ip-to-cmon/"
+    ],
+    "tags": [
+      "Ran Out of Money",
+      "Company Shutdown",
+      "Never Delivered"
     ]
   },
   {
@@ -461,6 +324,9 @@
     "sources": [
       "https://www.kickstarter.com/projects/1162110258/monsterpocalypse-board-game",
       "https://boardgamewire.com/index.php/2025/02/06/end-looms-for-mythic-games-as-company-gives-up-trying-to-deliver-1-3m-monsterpocalypse-kickstarter-hands-files-over-to-ip-holder-privateer-press/"
+    ],
+    "tags": [
+      "Ran Out of Money"
     ]
   },
   {
@@ -477,182 +343,110 @@
     "sources": [
       "https://www.kickstarter.com/projects/halohub/switchlens-power-up-your-smartphone-into-a-pro-camera",
       "https://www.bbb.org/us/ny/brooklyn/profile/crowdfunding/kickstarter-pbc-0121-137092/complaints"
+    ],
+    "tags": [
+      "Fraud/Scam",
+      "Never Delivered"
+    ]
+  },
+  {
+    "name": "Pebble 2, Time 2 + Core",
+    "kickstarter_url": "https://www.kickstarter.com/projects/getpebble/pebble-2-time-2-and-core-an-entirely-new-3g-ultra",
+    "image_url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800",
+    "amount_raised": 12779843,
+    "backers": 66673,
+    "goal": 1000000,
+    "funded_date": "2016-06-30",
+    "last_update": "2016-12-07",
+    "category": "Technology/Wearables",
+    "failure_reason": "Company sold to Fitbit for $23M in December 2016, just 5 months after campaign ended. Time 2 and Pebble Core were cancelled entirely - never produced. Backers received partial refunds ($70 on $179 pledges). Pebble 2 shipped but services discontinued June 2018.",
+    "sources": [
+      "https://www.kickstarter.com/projects/getpebble/pebble-2-time-2-and-core-an-entirely-new-3g-ultra",
+      "https://gizmodo.com/pebble-is-dead-and-its-customers-are-completely-screwe-1789775408"
+    ],
+    "tags": [
+      "Company Shutdown",
+      "Never Delivered"
+    ]
+  },
+  {
+    "name": "Yomee Yogurt Maker",
+    "kickstarter_url": "https://www.kickstarter.com/projects/leckerlabs/yomee",
+    "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800",
+    "amount_raised": 136808,
+    "backers": 1002,
+    "goal": 28000,
+    "funded_date": "2017-11-02",
+    "last_update": "2023-06-05",
+    "category": "Food/Kitchen",
+    "failure_reason": "Marketed as 'Keurig for yogurt' but failed to find manufacturer who could produce at viable price. Despite raising $930K+ across platforms, cooling system couldn't reach target temperatures. Officially announced failure in June 2023 - no acquisition, no products shipped to US backers.",
+    "sources": [
+      "https://www.kickstarter.com/projects/leckerlabs/yomee",
+      "https://thespoon.tech/lecker-labs-raised-400000-pushed-yomee-yogurt-maker-to-2019/"
+    ],
+    "tags": [
+      "Manufacturing Issues",
+      "Company Shutdown"
+    ]
+  },
+  {
+    "name": "Digitsole Smartshoe",
+    "kickstarter_url": "https://www.kickstarter.com/projects/141658446/digitsole-smartshoe-the-worlds-first-intelligent-s",
+    "image_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800",
+    "amount_raised": 114747,
+    "backers": 509,
+    "goal": 50000,
+    "funded_date": "2017-07-05",
+    "last_update": "2019-02-20",
+    "category": "Technology/Wearables",
+    "failure_reason": "Auto-tightening, heating smart sneaker promised at $199 (60% off $599 retail). After 2 years of delays, company offered full refunds in February 2019 via email. No products delivered to Kickstarter backers despite 229% funding.",
+    "sources": [
+      "https://www.kickstarter.com/projects/141658446/digitsole-smartshoe-the-worlds-first-intelligent-s",
+      "https://www.backerkit.com/projects/141658446/digitsole-smartshoe-the-worlds-first-intelligent-s"
+    ],
+    "tags": [
+      "Never Delivered"
     ]
   },
   {
     "name": "Lily Drone",
-    "kickstarter_url": "https://www.lily.camera/",
+    "kickstarter_url": "https://www.indiegogo.com/projects/lily-camera-the-drone-that-follows-you",
     "image_url": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=800",
     "amount_raised": 34000000,
     "backers": 60000,
-    "goal": 15000000,
+    "goal": 100000,
     "funded_date": "2015-05-12",
     "last_update": "2017-01-12",
     "category": "Technology/Drones",
-    "failure_reason": "Raised $34M in pre-orders for throw-and-go autonomous drone. R&D costs depleted funds before production. SF District Attorney sued for false advertising - promotional video used DJI Inspire drone, not Lily prototype. All pre-orders refunded.",
+    "failure_reason": "Throw-and-fly camera drone raised $34M in pre-orders but promotional video was faked using GoPro cameras on DJI drones. SF District Attorney filed fraud lawsuit. Company shut down January 2017, filed Chapter 11 bankruptcy. San Francisco police raided offices. Most backers never received refunds.",
     "sources": [
-      "https://www.dpreview.com/news/7340490266/lily-drone-shuts-down-despite-34m-worth-of-pre-orders",
-      "https://www.engadget.com/2017-01-12-lily-drone-is-dead-despite-34-million-in-pre-orders.html"
+      "https://www.indiegogo.com/projects/lily-camera-the-drone-that-follows-you",
+      "https://en.wikipedia.org/wiki/Lily_Robotics"
+    ],
+    "tags": [
+      "Fraud/Scam",
+      "Ran Out of Money",
+      "Company Shutdown"
     ]
   },
   {
-    "name": "Blocks Modular Smartwatch",
-    "kickstarter_url": "https://www.kickstarter.com/projects/2106691934/blocks-the-worlds-first-modular-smartwatch",
-    "image_url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800",
-    "amount_raised": 1613874,
-    "backers": 5063,
-    "goal": 250000,
-    "funded_date": "2015-11-30",
-    "last_update": "2019-08-15",
-    "category": "Technology/Wearables",
-    "failure_reason": "Lost supplier ($1M invested) and software partner (acquired by Google) in 2016. Only 500 units shipped in 2017. Spent $2.8M on R&D by March 2018. Company entered liquidation August 2019 without fulfilling vast majority of backer rewards.",
-    "sources": [
-      "https://www.kickstarter.com/projects/2106691934/blocks-the-worlds-first-modular-smartwatch",
-      "https://www.wareable.com/smartwatches/blosk-backers-have-their-say-7770"
-    ]
-  },
-  {
-    "name": "Skarp Laser Razor",
-    "kickstarter_url": "https://www.kickstarter.com/projects/skarp/the-skarp-laser-razor-21st-century-shaving",
-    "image_url": "https://images.unsplash.com/photo-1585751119414-ef2636f8aede?w=800",
-    "amount_raised": 4012295,
-    "backers": 20000,
-    "goal": 160000,
-    "funded_date": "2015-10-12",
-    "last_update": "2019-06-01",
-    "category": "Design/Product Design",
-    "failure_reason": "Kickstarter suspended campaign at $4M for lacking working prototype. CNET found laser filament fragile, could only cut one hair at a time. Moved to Indiegogo, raised another $500K. As of 2019, still 'under development' with nothing shipped.",
-    "sources": [
-      "https://www.kickstarter.com/projects/skarp/the-skarp-laser-razor-21st-century-shaving",
-      "https://en.wikipedia.org/wiki/Skarp_Technologies"
-    ]
-  },
-  {
-    "name": "Kreyos Meteor",
-    "kickstarter_url": "https://www.indiegogo.com/projects/kreyos-meteor",
-    "image_url": "https://images.unsplash.com/photo-1508685096489-7aacd43bd3b1?w=800",
-    "amount_raised": 1500000,
-    "backers": 11000,
+    "name": "Dragonfly Futurefön",
+    "kickstarter_url": "https://www.indiegogo.com/projects/dragonfly-futurefon-the-world-s-only-3-in-1-device",
+    "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
+    "amount_raised": 1373225,
+    "backers": 7983,
     "goal": 100000,
-    "funded_date": "2013-08-01",
-    "last_update": "2014-09-15",
-    "category": "Technology/Wearables",
-    "failure_reason": "Promised waterproof smartwatch with 7-day battery and gesture control. Delivered 10 months late: 24-hour battery, couldn't tell time without Bluetooth, no gesture control, died in water. ODM Viewcooper took most of funds. Company ceased operations September 2014.",
+    "funded_date": "2015-12-19",
+    "last_update": "2019-08-13",
+    "category": "Technology/Phones",
+    "failure_reason": "3-in-1 phone/tablet/laptop promised Windows and Android for $799. Creator Jeffrey Batio ran two Indiegogo campaigns but specs were impossible - 7-inch device claimed to weigh same as Galaxy S5. FBI investigation revealed decade-long fraud. Batio convicted on 12 counts, sentenced to 8 years prison, ordered to pay $5.77M restitution.",
     "sources": [
-      "https://www.indiegogo.com/projects/kreyos-meteor",
-      "https://gizmodo.com/the-1-5-million-indiegogo-smartwatch-horror-story-1625043836"
-    ]
-  },
-  {
-    "name": "Plastc Card",
-    "kickstarter_url": "https://www.plastc.com/",
-    "image_url": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800",
-    "amount_raised": 9000000,
-    "backers": 80000,
-    "goal": 5000000,
-    "funded_date": "2014-10-15",
-    "last_update": "2017-04-20",
-    "category": "Technology/Fintech",
-    "failure_reason": "Programmable card storing 20 credit cards raised $9M in pre-orders. Two investors withdrew $3.5M and $6.75M funding at eleventh hour. Filed Chapter 7 bankruptcy April 2017 without shipping single unit. Deleted all social media without offering refunds.",
-    "sources": [
-      "https://www.mercurynews.com/2017/04/21/plastc-folds-after-raking-millions-smart-credit-cards-never-shipped/",
-      "https://gizmodo.com/supercard-startup-plastc-goes-belly-up-screwing-thousa-1794507868"
-    ]
-  },
-  {
-    "name": "Coin Card",
-    "kickstarter_url": "https://www.onlycoin.com/",
-    "image_url": "https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?w=800",
-    "amount_raised": 3000000,
-    "backers": 50000,
-    "goal": 50000,
-    "funded_date": "2013-11-14",
-    "last_update": "2017-02-28",
-    "category": "Technology/Fintech",
-    "failure_reason": "Digital wallet card hit $50K goal in 40 minutes. Shipped 2 years late in 2015 with only 52% transaction success rate. Apple Pay and chip cards made technology obsolete. Fitbit acquired assets, all services shut down February 28, 2017.",
-    "sources": [
-      "https://fortune.com/2016/05/18/no-more-products-from-digital-wallet-startup-coin/",
-      "https://www.macrumors.com/2017/02/01/coin-shutdown-services-february-28/"
-    ]
-  },
-  {
-    "name": "Doppler Labs Here One",
-    "kickstarter_url": "https://www.kickstarter.com/projects/dopplerlabs/here-active-listening-change-the-way-you-hear-the",
-    "image_url": "https://images.unsplash.com/photo-1606220588913-b3aacb4d2f46?w=800",
-    "amount_raised": 635000,
-    "backers": 2862,
-    "goal": 250000,
-    "funded_date": "2015-08-30",
-    "last_update": "2017-11-01",
-    "category": "Technology/Sound",
-    "failure_reason": "Smart earbuds startup raised $50M+ total but sold only 25,000 units vs projected hundreds of thousands. Battery life of only 2 hours vs AirPods-competitive claims. Failed to raise Series C, shut down November 2017. Dolby acquired IP in 2018.",
-    "sources": [
-      "https://techcrunch.com/2017/11/01/smart-earbuds-startup-doppler-labs-shuts-down-after-raising-50m/",
-      "https://www.wareable.com/hearables/doppler-labs-shut-down-here-one-4932"
-    ]
-  },
-  {
-    "name": "Kanoa Earbuds",
-    "kickstarter_url": "https://www.indiegogo.com/projects/kanoa-wireless-earphones",
-    "image_url": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=800",
-    "amount_raised": 150000,
-    "backers": 900,
-    "goal": 100000,
-    "funded_date": "2015-11-01",
-    "last_update": "2017-08-27",
-    "category": "Technology/Sound",
-    "failure_reason": "Promised wireless earbuds to compete with AirPods at $300. Kept pushing ship dates - summer 2016 backers still waiting in 2017. Company shut down August 2017 without filling orders despite having raised additional VC funding.",
-    "sources": [
-      "https://siliconangle.com/2017/08/27/crowdfunded-earbud-startup-kanoa-shuts-without-delivering-product-customers/",
-      "https://www.mercurynews.com/2017/08/26/crowdfunding-disaster-silicon-valley-startup-takes-customers-money-shuts-down/"
-    ]
-  },
-  {
-    "name": "Anki Vector",
-    "kickstarter_url": "https://www.kickstarter.com/projects/702159265/anki-vector",
-    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
-    "amount_raised": 1961140,
-    "backers": 7862,
-    "goal": 500000,
-    "funded_date": "2018-09-15",
-    "last_update": "2019-04-29",
-    "category": "Technology/Robotics",
-    "failure_reason": "Despite raising $200M in VC and creating beloved robots (Cozmo, Vector), company shut down April 2019 when deal fell through at last minute. Cloud servers went offline, making robots non-functional. Digital Dream Labs acquired assets but struggled to maintain servers.",
-    "sources": [
-      "https://www.kinvert.com/anki-robotics-company-shutting-down/",
-      "https://www.failory.com/cemetery/anki"
-    ]
-  },
-  {
-    "name": "Jibo Robot",
-    "kickstarter_url": "https://www.indiegogo.com/projects/jibo-the-world-s-first-social-robot-for-the-home",
-    "image_url": "https://images.unsplash.com/photo-1546776310-eef45dd6d63c?w=800",
-    "amount_raised": 3700000,
-    "backers": 7500,
-    "goal": 100000,
-    "funded_date": "2014-08-16",
-    "last_update": "2019-03-04",
-    "category": "Technology/Robotics",
-    "failure_reason": "MIT researcher's social robot raised $3.7M on Indiegogo plus VC millions. Delayed from 2015 to 2017. International orders cancelled. Reviews compared it unfavorably to $20 Amazon Echo. Laid off staff, sold IP, servers shut down March 2019 rendering robots useless.",
-    "sources": [
-      "https://www.therobotreport.com/jibo-social-robot-analyzing-what-went-wrong/",
-      "https://techcrunch.com/2019/03/04/the-lonely-death-of-jibo-the-social-robot/"
-    ]
-  },
-  {
-    "name": "Kuri Robot",
-    "kickstarter_url": "https://www.heykuri.com/",
-    "image_url": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?w=800",
-    "amount_raised": 0,
-    "backers": 0,
-    "goal": 0,
-    "funded_date": "2017-01-06",
-    "last_update": "2018-07-25",
-    "category": "Technology/Robotics",
-    "failure_reason": "Mayfield Robotics (backed by Bosch) announced $700 home robot at CES 2017. Pre-orders opened but production never scaled. Company shut down July 2018 citing 'slow development of the consumer robotics category.' All pre-orders refunded.",
-    "sources": [
-      "https://spectrum.ieee.org/anki-jibo-and-kuri-what-we-can-learn-from-social-robotics-failures",
-      "https://www.theverge.com/2018/7/25/17611804/mayfield-robotics-kuri-robot-shutdown"
+      "https://www.indiegogo.com/projects/dragonfly-futurefon-the-world-s-only-3-in-1-device",
+      "https://thedanzing.com/the-worst-crowdfunding-scam-ever-the-story-of-the-dragonfly-futuref%C3%B6n-4808eb9ce4b3"
+    ],
+    "tags": [
+      "Fraud/Scam",
+      "Technically Impossible"
     ]
   },
   {
@@ -660,15 +454,41 @@
     "kickstarter_url": "https://www.indiegogo.com/projects/triton-world-s-first-artificial-gills-re-breather",
     "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800",
     "amount_raised": 900000,
-    "backers": 3000,
+    "backers": 6500,
     "goal": 50000,
     "funded_date": "2016-04-01",
-    "last_update": "2016-04-06",
-    "category": "Design/Outdoors",
-    "failure_reason": "Claimed device could extract breathable oxygen from water for 45-minute underwater breathing. Experts proved physics impossible - would need to filter 90L water/minute. After investigation, admitted claims false, refunded all $900K to backers.",
+    "last_update": "2016-05-01",
+    "category": "Sports/Diving",
+    "failure_reason": "Claimed to extract oxygen from water for 45-minute underwater breathing - physically impossible according to UC Berkeley chemistry professors. After backlash, changed story to 'liquid oxygen cylinders' (also impossible at claimed specs). Forced to refund $900K. Second campaign raised $500K before Indiegogo banned it.",
     "sources": [
-      "https://gearjunkie.com/news/refunded-triton-artificial-gills-campaign-update",
-      "https://www.cnbc.com/2016/04/06/triton-refunds-backers-for-its-underwater-breathing-device.html"
+      "https://www.indiegogo.com/projects/triton-world-s-first-artificial-gills-re-breather",
+      "https://gearjunkie.com/news/refunded-triton-artificial-gills-campaign-update"
+    ],
+    "tags": [
+      "Technically Impossible"
+    ]
+  },
+  {
+    "name": "Kanoa Wireless Earbuds",
+    "kickstarter_url": "https://www.indiegogo.com/projects/kanoa-truly-wireless-earphones",
+    "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800",
+    "amount_raised": 1500000,
+    "backers": 10000,
+    "goal": 100000,
+    "funded_date": "2015-12-01",
+    "last_update": "2017-08-26",
+    "category": "Technology/Audio",
+    "failure_reason": "Truly wireless earbuds at $150-$300 pledges. Manufacturer only planned to make ~24 units, not thousands ordered. Offered YouTuber $500 bribe for positive review - he exposed them instead. Company shut down 4 days after devastating review went viral. No FCC certification obtained. No refunds offered.",
+    "sources": [
+      "https://www.indiegogo.com/projects/kanoa-truly-wireless-earphones",
+      "https://fortune.com/2017/08/27/headphone-startup-kanoa-youtube-review/"
+    ],
+    "tags": [
+      "Fraud/Scam",
+      "Manufacturing Issues",
+      "Company Shutdown",
+      "Never Delivered",
+      "Partial Delivery"
     ]
   },
   {
@@ -676,927 +496,59 @@
     "kickstarter_url": "https://www.indiegogo.com/projects/fontus-the-self-filling-water-bottles",
     "image_url": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800",
     "amount_raised": 345000,
-    "backers": 2500,
-    "goal": 100000,
-    "funded_date": "2016-03-01",
-    "last_update": "2017-06-01",
-    "category": "Design/Outdoors",
-    "failure_reason": "Claimed solar-powered dehumidifier bottle producing 0.5L water per hour from air. Engineers calculated would need 250W solar panel with 1.5m surface. Creator's own documentation showed only 'one drop per minute.' Never delivered.",
+    "backers": 2800,
+    "goal": 30000,
+    "funded_date": "2016-04-15",
+    "last_update": "2018-01-01",
+    "category": "Technology/Outdoors",
+    "failure_reason": "Claimed to capture moisture from air to fill water bottle using solar power. EEVBlog debunked with basic thermodynamics - at best would produce 1 liter in 60 hours. Fine print stated no refunds if product didn't work. Videos were demonstrations, not working prototypes. Never shipped anything resembling advertised product.",
     "sources": [
-      "https://www.eevblog.com/2016/05/18/eevblog-881-fontus-self-filling-water-bottle-busted/",
-      "https://hydrationanywhere.com/looks-like-fontus-self-filling-water-bottle-scam/"
+      "https://www.indiegogo.com/projects/fontus-the-self-filling-water-bottles",
+      "https://www.eevblog.com/2016/05/18/eevblog-881-fontus-self-filling-water-bottle-busted/"
+    ],
+    "tags": [
+      "Technically Impossible",
+      "Never Delivered"
     ]
   },
   {
-    "name": "Solar Roadways",
-    "kickstarter_url": "https://www.indiegogo.com/projects/solar-roadways",
-    "image_url": "https://images.unsplash.com/photo-1509391366360-2e959784a276?w=800",
-    "amount_raised": 2200000,
-    "backers": 50000,
-    "goal": 1000000,
-    "funded_date": "2014-06-20",
-    "last_update": "2016-11-01",
-    "category": "Technology/Energy",
-    "failure_reason": "Indiegogo's most backed campaign ever. Promised to replace all US roads with solar panels featuring LEDs and heating. Engineers calculated costs would be many times federal budget. Test installations failed. Only parking lot demos ever built.",
-    "sources": [
-      "https://www.newrisingmedia.com/blog/2016/11/16/solar-roadways-a-cautionary-tale-about-crowd-funding-cons",
-      "https://wattsupwiththat.com/2014/06/04/solar-roadways-biggest-indiegogo-scam-ever/"
-    ]
-  },
-  {
-    "name": "SpeedX Unicorn",
-    "kickstarter_url": "https://www.kickstarter.com/projects/speedx/speedx-unicorn-worlds-smartest-aero-road-bike",
-    "image_url": "https://images.unsplash.com/photo-1485965120184-e220f721d03e?w=800",
-    "amount_raised": 700000,
-    "backers": 1500,
-    "goal": 100000,
-    "funded_date": "2017-03-01",
-    "last_update": "2018-12-01",
-    "category": "Design/Transportation",
-    "failure_reason": "Chinese startup raised ~$10M across campaigns for 'smart' road bikes. Original Leopard had quality issues. Unicorn campaign took hundreds of thousands more but bike never materialized. Company went silent, countless backers lost everything.",
-    "sources": [
-      "https://road.cc/content/feature/best-worst-and-wackiest-cycling-crowdfunders-289179",
-      "https://electrek.co/2022/05/31/afraid-of-indiegogo-these-famous-electric-bike-companies-all-got-started-crowdfunding/"
-    ]
-  },
-  {
-    "name": "Raine One Electric Scooter",
-    "kickstarter_url": "https://www.kickstarter.com/projects/raineone/raine-one-the-ultimate-electric-scooter",
-    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-    "amount_raised": 438000,
-    "backers": 600,
-    "goal": 50000,
-    "funded_date": "2019-12-01",
-    "last_update": "2021-06-04",
-    "category": "Design/Transportation",
-    "failure_reason": "Melbourne-based startup raised $438K for 'giant leap forward' electric scooter. Ran over a year past delivery date before announcing they would stop development. No refunds offered. Hundreds of backers left with nothing.",
-    "sources": [
-      "https://electrek.co/2021/06/04/with-438000-in-pre-orders-raine-one-electric-scooter-founders-bail-wont-issue-refunds/",
-      "https://www.kickstarter.com/projects/raineone/raine-one-the-ultimate-electric-scooter"
-    ]
-  },
-  {
-    "name": "Unicorn Electric Scooter",
-    "kickstarter_url": "https://www.indiegogo.com/projects/unicorn-electric-scooter",
-    "image_url": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=800",
-    "amount_raised": 350000,
-    "backers": 500,
-    "goal": 100000,
-    "funded_date": "2019-06-01",
-    "last_update": "2019-12-08",
-    "category": "Design/Transportation",
-    "failure_reason": "Flashy white electric scooter took pre-orders but was slow to deliver. Company sent notice in December 2019 that it had run out of money and couldn't deliver any scooters or issue refunds. All customers lost their money.",
-    "sources": [
-      "https://electrek.co/2019/12/08/unicorn-electric-scooter-shuts-down-no-refunds/",
-      "https://www.indiegogo.com/projects/unicorn-electric-scooter"
-    ]
-  },
-  {
-    "name": "Elio Motors",
-    "kickstarter_url": "https://www.startengine.com/elio",
-    "image_url": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800",
-    "amount_raised": 17000000,
-    "backers": 65000,
-    "goal": 1000000,
-    "funded_date": "2014-07-01",
-    "last_update": "2017-01-01",
-    "category": "Design/Transportation",
-    "failure_reason": "3-wheeled vehicle promised incredible fuel efficiency at $6,800 price. Raised $17M+ from 65,000+ reservations. Burned through investment in months on suspicious 'soft expenses' (executive paychecks). Vehicle never produced.",
-    "sources": [
-      "https://finance.yahoo.com/news/16-biggest-crowdfunding-scams-failures-103657040.html",
-      "https://www.tcf.team/blog/crowdfunding-scams"
-    ]
-  },
-  {
-    "name": "Coleco Chameleon",
-    "kickstarter_url": "https://www.indiegogo.com/projects/coleco-chameleon",
-    "image_url": "https://images.unsplash.com/photo-1493711662062-fa541f7f7f79?w=800",
-    "amount_raised": 80000,
-    "backers": 300,
-    "goal": 1950000,
-    "funded_date": "2016-03-08",
-    "last_update": "2016-03-08",
-    "category": "Games/Hardware",
-    "failure_reason": "Retro gaming console exposed as scam. 'Prototype' at Toy Fair was SNES inside Atari Jaguar case. Second 'prototype' image showed CCTV capture card motherboard. Coleco withdrew branding, project cancelled. No working prototype ever existed.",
-    "sources": [
-      "https://hackaday.com/2016/03/10/yet-another-kickstarter-scam/",
-      "https://en.wikipedia.org/wiki/Chameleon_(video_game_console)"
-    ]
-  },
-  {
-    "name": "NEEO Remote",
-    "kickstarter_url": "https://www.kickstarter.com/projects/1227337tried/neeo-the-thinking-remote",
-    "image_url": "https://images.unsplash.com/photo-1567690187548-f07b1d7bf5a9?w=800",
-    "amount_raised": 1500000,
-    "backers": 5000,
-    "goal": 200000,
-    "funded_date": "2015-01-30",
-    "last_update": "2019-09-01",
-    "category": "Technology/Smart Home",
-    "failure_reason": "Smart universal remote backed January 2015 with summer 2015 delivery. Didn't arrive until late 2017. Company acquired, no more software updates promised, servers only maintained minimum 24 months. Remote became useless brick.",
-    "sources": [
-      "https://www.thegrumpyengineer.co.uk/?p=436",
-      "https://www.kickstarter.com/projects/1227337tried/neeo-the-thinking-remote"
-    ]
-  },
-  {
-    "name": "Healbe GoBe",
-    "kickstarter_url": "https://www.indiegogo.com/projects/healbe-gobe-the-only-way-to-automatically-measure-calorie-intake",
-    "image_url": "https://images.unsplash.com/photo-1576243345690-4e4b79b63288?w=800",
-    "amount_raised": 1054127,
-    "backers": 5000,
-    "goal": 100000,
-    "funded_date": "2014-04-15",
-    "last_update": "2015-02-09",
-    "category": "Technology/Wearables",
-    "failure_reason": "Russian company claimed wristband could measure calorie intake through skin glucose monitoring. Medical experts said technology impossible. Company lied about being SF-based, patents, and CES exhibition. Delivered product that didn't work as claimed.",
-    "sources": [
-      "https://www.engadget.com/2015-02-09-healbe-gobe-review.html",
-      "https://pando.com/2014/05/19/one-month-after-getting-its-million-dollars-healbes-scampaign-keeps-on-stacking-up-broken-promises/"
-    ]
-  },
-  {
-    "name": "Ritot Projection Watch",
-    "kickstarter_url": "https://www.indiegogo.com/projects/ritot-the-first-projection-watch",
-    "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800",
-    "amount_raised": 1400000,
-    "backers": 8500,
-    "goal": 50000,
-    "funded_date": "2014-09-30",
-    "last_update": "2016-01-01",
-    "category": "Technology/Wearables",
-    "failure_reason": "Watch claimed to project time on user's wrist. No working prototype, impossible physics (projector couldn't work in daylight), all images were renders. Ukrainian creators used fake names citing 'political unrest.' $1.4M raised, nothing delivered.",
-    "sources": [
-      "https://techcrunch.com/2014/09/30/the-impossible-projection-watch-hits-1-4-million-in-crowdfunding/",
-      "https://kguttag.com/2016/10/05/wrist-projector-scams-ritot-cicret-the-new-eyehand/"
-    ]
-  },
-  {
-    "name": "Scribble Pen",
-    "kickstarter_url": "https://www.kickstarter.com/projects/scribblepen/scribble-the-worlds-first-color-picking-pen",
-    "image_url": "https://images.unsplash.com/photo-1513542789411-b6a5d4f31634?w=800",
-    "amount_raised": 366566,
+    "name": "Skarp Laser Razor",
+    "kickstarter_url": "https://www.indiegogo.com/projects/the-skarp-laser-razor-21st-century-shaving-new-health",
+    "image_url": "https://images.unsplash.com/photo-1585751119414-ef2636f8aede?w=800",
+    "amount_raised": 500000,
     "backers": 4000,
-    "goal": 100000,
-    "funded_date": "2014-08-14",
-    "last_update": "2014-08-14",
-    "category": "Technology/Hardware",
-    "failure_reason": "Pen claimed to scan any color and reproduce it in ink. Kickstarter cancelled after 3 days when backers raised concerns. Investigation found no trace of company or founders existing. Demo video was faked with post-production. No refunds.",
+    "goal": 160000,
+    "funded_date": "2015-10-15",
+    "last_update": "2022-03-29",
+    "category": "Technology/Personal Care",
+    "failure_reason": "Originally raised $4M on Kickstarter before being suspended for lacking working prototype. Moved to Indiegogo, raised $500K+. Promised March 2016 delivery. As of December 2025, still no product - last update March 2022. Founders sued each other in 2019. Campaign page shows 'awaiting update' for years.",
     "sources": [
-      "https://www.slashgear.com/scribble-pen-kickstarter-cancellation-stokes-scam-concerns-14341257/",
-      "https://hackaday.com/2014/09/04/scribble-and-the-failings-of-tech-journalism/"
+      "https://www.indiegogo.com/projects/the-skarp-laser-razor-21st-century-shaving-new-health",
+      "https://en.wikipedia.org/wiki/Skarp_Technologies"
+    ],
+    "tags": [
+      "Never Delivered",
+      "Technically Impossible"
     ]
   },
   {
-    "name": "Dragonfly Futurefon",
-    "kickstarter_url": "https://www.indiegogo.com/projects/dragonfly-futurefon",
-    "image_url": "https://images.unsplash.com/photo-1512054502232-10a0a035d672?w=800",
-    "amount_raised": 650000,
-    "backers": 2000,
-    "goal": 500000,
-    "funded_date": "2013-09-01",
-    "last_update": "2014-12-01",
-    "category": "Technology/Mobile",
-    "failure_reason": "3-in-1 device (phone, tablet, laptop) supporting both Windows and Android with modular parts. Technology so complicated that creating even a prototype was impossible. Known as 'the biggest Indiegogo scam.' Backers got neither product nor refund.",
-    "sources": [
-      "https://medium.com/@candao.io/the-biggest-indiegogo-scams-4b221e2219b2",
-      "https://www.homecrux.com/kickstarter-indiegogo-and-scammed-backers/310979/"
-    ]
-  },
-  {
-    "name": "Sense Smart Home Hub",
-    "kickstarter_url": "https://www.kickstarter.com/projects/silklabs/sense-know-whats-happening-at-home",
-    "image_url": "https://images.unsplash.com/photo-1558618047-f4b511cc0b22?w=800",
-    "amount_raised": 164885,
-    "backers": 1100,
-    "goal": 100000,
-    "funded_date": "2017-08-01",
-    "last_update": "2017-12-01",
-    "category": "Technology/Smart Home",
-    "failure_reason": "Former Mozilla CTO Andreas Gal's smart home hub with AI and computer vision raised funding, then cancelled and refunded backers before development. Rare case of voluntary cancellation rather than failure to deliver.",
-    "sources": [
-      "https://www.dailydot.com/debug/kickstarter-smart-device-iot-mozilla-refunds-backers/",
-      "https://www.kickstarter.com/projects/silklabs/sense-know-whats-happening-at-home"
-    ]
-  },
-  {
-    "name": "Cicret Bracelet",
-    "kickstarter_url": "https://www.indiegogo.com/projects/cicret-bracelet",
-    "image_url": "https://images.unsplash.com/photo-1575311373937-040b8e1fd5b6?w=800",
-    "amount_raised": 500000,
-    "backers": 3000,
-    "goal": 500000,
-    "funded_date": "2014-12-01",
-    "last_update": "2018-01-01",
-    "category": "Technology/Wearables",
-    "failure_reason": "Bracelet claimed to project touchscreen interface on arm. Like Ritot, physically impossible - projector can't work in daylight on skin. Raised money but kept pushing delivery dates. Eventually went silent. Known wrist projector scam.",
-    "sources": [
-      "https://kguttag.com/2016/10/05/wrist-projector-scams-ritot-cicret-the-new-eyehand/",
-      "https://www.indiegogo.com/projects/cicret-bracelet"
-    ]
-  },
-  {
-    "name": "Micro Drone 4.0",
-    "kickstarter_url": "https://www.indiegogo.com/projects/micro-drone-4-0",
-    "image_url": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=800",
+    "name": "GOKey",
+    "kickstarter_url": "https://www.indiegogo.com/projects/gokey-the-smart-key-for-connected-living",
+    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
     "amount_raised": 1200000,
-    "backers": 8000,
-    "goal": 100000,
-    "funded_date": "2019-01-01",
-    "last_update": "2023-06-01",
-    "category": "Technology/Drones",
-    "failure_reason": "Campaign owner claimed production-ready drone 4.5+ years ago. Described as 'ongoing scam' with nothing but lies and excuses since. Over 8,000 backers waiting years for delivery with endless delays and empty promises.",
-    "sources": [
-      "https://ca.trustpilot.com/review/www.indiegogo.com",
-      "https://www.indiegogo.com/projects/micro-drone-4-0"
-    ]
-  },
-  {
-    "name": "Phantom Robotic Chessboard",
-    "kickstarter_url": "https://www.indiegogo.com/projects/phantom-the-robotic-chessboard",
-    "image_url": "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?w=800",
-    "amount_raised": 750000,
-    "backers": 1500,
-    "goal": 100000,
-    "funded_date": "2021-08-01",
-    "last_update": "2025-06-01",
-    "category": "Games/Hardware",
-    "failure_reason": "Automatic chess board with moving pieces via magnetic system. Backed in August 2021 with February 2023 delivery estimate. As of 2025, still no product, no refund, no credible delivery timeline despite nearly 4 years passing.",
-    "sources": [
-      "https://www.bbb.org/us/ca/san-francisco/profile/crowdfunding/indiegogo-1116-372843/complaints",
-      "https://www.indiegogo.com/projects/phantom-the-robotic-chessboard"
-    ]
-  },
-  {
-    "name": "Rocket eBike",
-    "kickstarter_url": "https://www.indiegogo.com/projects/rocket-ebike",
-    "image_url": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=800",
-    "amount_raised": 400000,
-    "backers": 500,
-    "goal": 50000,
-    "funded_date": "2020-01-01",
-    "last_update": "2022-01-01",
-    "category": "Design/Transportation",
-    "failure_reason": "Heavily promoted by Indiegogo despite clear evidence of no intention to deliver. Campaign ran usual playbook of delays and excuses. Described by backers as platform-endorsed scam. No bikes delivered.",
-    "sources": [
-      "https://forums.electricbikereview.com/threads/friendly-advice-to-new-buyers-avoid-indiegogo-crowdfunding.45887/",
-      "https://www.indiegogo.com/projects/rocket-ebike"
-    ]
-  },
-  {
-    "name": "Delfast eBike",
-    "kickstarter_url": "https://www.indiegogo.com/projects/delfast-top-3-0",
-    "image_url": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=800",
-    "amount_raised": 500000,
-    "backers": 300,
-    "goal": 50000,
-    "funded_date": "2020-06-01",
-    "last_update": "2024-07-05",
-    "category": "Design/Transportation",
-    "failure_reason": "California backer sued Delfast for non-delivery after Indiegogo campaign. Owner Daniel Tonkopi admitted in court he never intended to provide bikes to campaign backers. Court awarded plaintiff $2,198 plus costs.",
-    "sources": [
-      "https://electrek.co/2024/07/05/crowdfunding-gone-wrong-customer-sues-delfast-for-e-bike-non-delivery-and-wins/",
-      "https://www.indiegogo.com/projects/delfast-top-3-0"
-    ]
-  },
-  {
-    "name": "Lockitron Smart Lock",
-    "kickstarter_url": "https://www.lockitron.com/preorder",
-    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-    "amount_raised": 2278891,
     "backers": 14000,
-    "goal": 150000,
-    "funded_date": "2012-10-15",
-    "last_update": "2016-01-01",
-    "category": "Technology/Smart Home",
-    "failure_reason": "Self-funded crowdfunding campaign for Bluetooth door lock raised $2.2M. Experienced significant delays delivering in substantial numbers. Eventually shipped thousands but ceased production. Became cautionary tale of hardware crowdfunding complexity.",
-    "sources": [
-      "https://en.wikipedia.org/wiki/List_of_vaporware",
-      "https://www.lockitron.com/"
-    ]
-  },
-  {
-    "name": "X-tra Battery",
-    "kickstarter_url": "https://www.kickstarter.com/projects/x-trabattery/x-tra-battery",
-    "image_url": "https://images.unsplash.com/photo-1619954290770-4ef57c18d088?w=800",
-    "amount_raised": 150000,
-    "backers": 1000,
-    "goal": 50000,
-    "funded_date": "2020-01-01",
-    "last_update": "2021-02-09",
-    "category": "Technology/Camera",
-    "failure_reason": "Camera battery campaign exposed as likely fraud. 'CEO' Jeffery Parker found to be stock photo model from Hong Kong. Company had no verifiable existence. Campaign never intended to deliver products.",
-    "sources": [
-      "https://petapixel.com/2021/02/09/the-x-tra-battery-kickstarter-campaign-may-have-been-a-scam/",
-      "https://www.canonrumors.com/scammed-the-x-tra-battery-campaign-on-kickstarter/"
-    ]
-  },
-  {
-    "name": "Hendo Hoverboard",
-    "kickstarter_url": "https://www.kickstarter.com/projects/142464853/hendo-hoverboards-worlds-first-real-hoverboard",
-    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-    "amount_raised": 510590,
-    "backers": 3000,
-    "goal": 250000,
-    "funded_date": "2014-12-15",
-    "last_update": "2015-10-21",
-    "category": "Technology/Transportation",
-    "failure_reason": "Magnetic levitation hoverboard only worked on special copper surface. NYT noted creator had no skateboarding interest and called campaign 'basically a publicity stunt.' $10,000 price for hoverboard that couldn't work on normal surfaces.",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Hoverboard",
-      "https://www.kickstarter.com/projects/142464853/hendo-hoverboards-worlds-first-real-hoverboard"
-    ]
-  },
-  {
-    "name": "Self-Balancing Scooter (Hovertrax)",
-    "kickstarter_url": "https://www.kickstarter.com/projects/1384088284/hovertrax-the-hands-free-personal-transporter",
-    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-    "amount_raised": 72000,
-    "backers": 300,
-    "goal": 50000,
-    "funded_date": "2013-08-15",
-    "last_update": "2016-07-01",
-    "category": "Technology/Transportation",
-    "failure_reason": "Shane Chen's original self-balancing scooter design. While Chen delivered, Chinese knockoffs flooded market and caught fire. Over 500,000 units recalled by CPSC in 2016 due to battery fires. 23 recalls since affecting 1.1M+ units total.",
-    "sources": [
-      "https://en.wikipedia.org/wiki/Self-balancing_scooter",
-      "https://www.kickstarter.com/projects/1384088284/hovertrax-the-hands-free-personal-transporter"
-    ]
-  },
-  {
-    "name": "Pressy",
-    "kickstarter_url": "https://www.kickstarter.com/projects/556341540/pressy-the-almighty-android-button",
-    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-    "amount_raised": 695138,
-    "backers": 27000,
     "goal": 40000,
-    "funded_date": "2013-09-26",
-    "last_update": "2014-08-01",
-    "category": "Technology/Mobile",
-    "failure_reason": "Android headphone jack button raised $695K but was immediately copied by Chinese manufacturers who shipped before Pressy. By time original shipped, knockoffs available for $2 vs Pressy's $17. Market destroyed by clones.",
-    "sources": [
-      "https://www.kickstarter.com/projects/556341540/pressy-the-almighty-android-button",
-      "https://www.summet.com/blog/2021/07/04/failed-kickstarter-projects/"
-    ]
-  },
-  {
-    "name": "Ubuntu Edge",
-    "kickstarter_url": "https://www.indiegogo.com/projects/ubuntu-edge",
-    "image_url": "https://images.unsplash.com/photo-1512054502232-10a0a035d672?w=800",
-    "amount_raised": 12814196,
-    "backers": 27000,
-    "goal": 32000000,
-    "funded_date": "2013-08-22",
-    "last_update": "2013-08-22",
-    "category": "Technology/Mobile",
-    "failure_reason": "Canonical's convergent phone/desktop device sought $32M - largest crowdfunding goal ever at time. Despite raising $12.8M (Indiegogo record), fell $19M short. All money refunded. Phone never produced.",
-    "sources": [
-      "https://www.indiegogo.com/projects/ubuntu-edge",
-      "https://en.wikipedia.org/wiki/Ubuntu_Edge"
-    ]
-  },
-  {
-    "name": "Nikola Labs Phone Case",
-    "kickstarter_url": "https://www.kickstarter.com/projects/nikola-labs/nikola-phone-case-battery-free-power-from-the-air",
-    "image_url": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800",
-    "amount_raised": 0,
-    "backers": 0,
-    "goal": 135000,
     "funded_date": "2015-06-01",
-    "last_update": "2015-06-01",
-    "category": "Technology/Mobile",
-    "failure_reason": "Phone case claimed to 'recycle wasted energy' from phone radiation for 30% more battery. Technical analysis proved impossible - could recover 10% at absolute best under impossible conditions. Kickstarter failed to fund despite major PR push.",
-    "sources": [
-      "https://www.metabunk.org/threads/kickstarter-phone-charger-powered-by-the-phone.7612/",
-      "https://hackaday.com/2015/08/14/where-are-they-now-terrible-kickstarters/"
-    ]
-  },
-  {
-    "name": "Moment Smartwatch",
-    "kickstarter_url": "https://www.kickstarter.com/projects/momentsmartwatch/moment-smartwatch",
-    "image_url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800",
-    "amount_raised": 260000,
-    "backers": 1500,
-    "goal": 100000,
-    "funded_date": "2014-09-01",
-    "last_update": "2016-01-01",
-    "category": "Technology/Wearables",
-    "failure_reason": "Smartwatch promising analog look with smart features. Repeated delays, then company went silent. Creator eventually admitted product couldn't be built as promised at the price point. Most backers received nothing.",
-    "sources": [
-      "https://www.kickstarter.com/projects/momentsmartwatch/moment-smartwatch",
-      "https://www.summet.com/blog/2021/07/04/failed-kickstarter-projects/"
-    ]
-  },
-  {
-    "name": "Agent Smartwatch",
-    "kickstarter_url": "https://www.kickstarter.com/projects/secretlabs/agent-the-worlds-smartest-watch",
-    "image_url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800",
-    "amount_raised": 1089979,
-    "backers": 7500,
-    "goal": 100000,
-    "funded_date": "2013-07-18",
-    "last_update": "2017-01-01",
-    "category": "Technology/Wearables",
-    "failure_reason": "Secret Labs raised $1M for smartwatch in 2013. Microsoft's .NET Micro Framework changes and manufacturing challenges caused endless delays. Four years later, still not shipped. Company eventually went quiet.",
-    "sources": [
-      "https://www.kickstarter.com/projects/secretlabs/agent-the-worlds-smartest-watch",
-      "https://www.summet.com/blog/2021/07/04/failed-kickstarter-projects/"
-    ]
-  },
-  {
-    "name": "Trident Submarine",
-    "kickstarter_url": "https://www.kickstarter.com/projects/openrov/openrov-trident-an-underwater-drone-for-everyone",
-    "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800",
-    "amount_raised": 803376,
-    "backers": 1900,
-    "goal": 50000,
-    "funded_date": "2015-12-01",
-    "last_update": "2019-01-01",
-    "category": "Technology/Drones",
-    "failure_reason": "OpenROV's underwater drone raised $800K but struggled with production. Sofar Ocean acquired company, discontinued consumer products, and focused on B2B ocean monitoring. Consumer backers left with unfulfilled orders or limited support.",
-    "sources": [
-      "https://www.kickstarter.com/projects/openrov/openrov-trident-an-underwater-drone-for-everyone",
-      "https://www.sofarocean.com/"
-    ]
-  },
-  {
-    "name": "Zubr VR Camera",
-    "kickstarter_url": "https://www.kickstarter.com/projects/zubr/zubr-vr-the-most-affordable-360-camera-for-vr",
-    "image_url": "https://images.unsplash.com/photo-1478416272538-5f7e51dc5400?w=800",
-    "amount_raised": 115000,
-    "backers": 600,
-    "goal": 60000,
-    "funded_date": "2016-04-01",
-    "last_update": "2017-09-01",
-    "category": "Technology/Camera",
-    "failure_reason": "360-degree VR camera for consumers promised affordable virtual reality content creation. VR market cooled significantly, company struggled with production costs. Project eventually abandoned with limited deliveries.",
-    "sources": [
-      "https://www.kickstarter.com/projects/zubr/zubr-vr-the-most-affordable-360-camera-for-vr",
-      "https://www.kicktraq.com/"
-    ]
-  },
-  {
-    "name": "Airbag for Cyclists (Hovding)",
-    "kickstarter_url": "https://www.kickstarter.com/projects/hovding/hovding-airbag-for-urban-cyclists",
-    "image_url": "https://images.unsplash.com/photo-1505705694340-019e1f7cc9d1?w=800",
-    "amount_raised": 450000,
-    "backers": 2000,
-    "goal": 200000,
-    "funded_date": "2010-11-01",
-    "last_update": "2018-01-01",
-    "category": "Design/Transportation",
-    "failure_reason": "Swedish airbag collar for cyclists raised funds but faced recalls. Some units deployed randomly without accidents. $299 price point limited adoption. Company struggled financially despite interesting technology.",
-    "sources": [
-      "https://www.kickstarter.com/projects/hovding/hovding-airbag-for-urban-cyclists",
-      "https://www.hovding.com/"
-    ]
-  },
-  {
-    "name": "Fidget Cube",
-    "kickstarter_url": "https://www.kickstarter.com/projects/antsylabs/fidget-cube-a-vinyl-desk-toy",
-    "image_url": "https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?w=800",
-    "amount_raised": 6465690,
-    "backers": 154926,
-    "goal": 15000,
-    "funded_date": "2016-10-19",
-    "last_update": "2017-06-01",
-    "category": "Design/Product Design",
-    "failure_reason": "While eventually delivered, $6.4M campaign faced massive counterfeiting. Chinese knockoffs available months before legitimate product shipped. Backers received items late while copies sold everywhere. Creators struggled with scale.",
-    "sources": [
-      "https://www.kickstarter.com/projects/antsylabs/fidget-cube-a-vinyl-desk-toy",
-      "https://www.theverge.com/2017/1/3/14156tried/fidget-cube-knockoffs-shipping-clones-kickstarter"
-    ]
-  },
-  {
-    "name": "Znshine Solar E-Bike",
-    "kickstarter_url": "https://www.indiegogo.com/projects/znshine-solar-e-bike",
-    "image_url": "https://images.unsplash.com/photo-1571068316344-75bc76f77890?w=800",
-    "amount_raised": 200000,
-    "backers": 300,
-    "goal": 50000,
-    "funded_date": "2018-05-01",
-    "last_update": "2020-01-01",
-    "category": "Design/Transportation",
-    "failure_reason": "Solar-powered electric bicycle claimed to charge while riding. Physics made claims dubious - solar panel on bike too small to provide meaningful charge. Multiple delivery delays, then silence from creators.",
-    "sources": [
-      "https://www.indiegogo.com/projects/znshine-solar-e-bike",
-      "https://electrek.co/2022/05/31/afraid-of-indiegogo-these-famous-electric-bike-companies-all-got-started-crowdfunding/"
-    ]
-  },
-  {
-    "name": "Snapchat Spectacles Clone - Weyes",
-    "kickstarter_url": "https://www.kickstarter.com/projects/weyes/weyes-smart-glasses",
-    "image_url": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=800",
-    "amount_raised": 180000,
-    "backers": 800,
-    "goal": 50000,
-    "funded_date": "2017-08-01",
-    "last_update": "2019-01-01",
-    "category": "Technology/Wearables",
-    "failure_reason": "Smart glasses copying Snapchat Spectacles concept at lower price. Struggled with hardware development complexity. Project went quiet after initial delays, no confirmed mass delivery to backers.",
-    "sources": [
-      "https://www.kickstarter.com/projects/weyes/weyes-smart-glasses",
-      "https://www.kicktraq.com/"
-    ]
-  },
-  {
-    "name": "GlassUp Smart Glasses",
-    "kickstarter_url": "https://www.indiegogo.com/projects/glassup-augmented-reality-glasses",
-    "image_url": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=800",
-    "amount_raised": 150000,
-    "backers": 700,
-    "goal": 150000,
-    "funded_date": "2013-10-01",
-    "last_update": "2015-12-01",
-    "category": "Technology/Wearables",
-    "failure_reason": "Google Glass alternative raised funds for AR glasses projecting info to eye. Hardware complexity, component costs, and Google Glass's own struggles hurt market. Limited delivery, company pivoted away from consumer product.",
-    "sources": [
-      "https://www.indiegogo.com/projects/glassup-augmented-reality-glasses",
-      "https://www.nbcnews.com/technolog/top-5-google-glass-alternatives-8c11014693"
-    ]
-  },
-  {
-    "name": "Atlas Wristband",
-    "kickstarter_url": "https://www.kickstarter.com/projects/atlas/atlas-the-most-advanced-personal-fitness-tracker",
-    "image_url": "https://images.unsplash.com/photo-1576243345690-4e4b79b63288?w=800",
-    "amount_raised": 631000,
-    "backers": 3500,
-    "goal": 125000,
-    "funded_date": "2014-06-01",
-    "last_update": "2018-01-01",
-    "category": "Technology/Wearables",
-    "failure_reason": "Fitness tracker claiming to auto-detect exercises raised $631K. Delivered late with mixed reviews on accuracy. Company struggled to compete with Fitbit/Apple, eventually shut down. Servers offline left devices with limited functionality.",
-    "sources": [
-      "https://www.kickstarter.com/projects/atlas/atlas-the-most-advanced-personal-fitness-tracker",
-      "https://www.wareable.com/fitness-trackers/"
-    ]
-  },
-  {
-    "name": "Podo Stick-and-Shoot Camera",
-    "kickstarter_url": "https://www.kickstarter.com/projects/podolabs/podo-the-first-stick-and-shoot-camera",
-    "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=800",
-    "amount_raised": 1044900,
-    "backers": 7900,
-    "goal": 50000,
-    "funded_date": "2015-03-01",
-    "last_update": "2018-01-01",
-    "category": "Technology/Camera",
-    "failure_reason": "Bluetooth camera that sticks anywhere raised $1M. Delivered but struggled with smartphone camera improvements making product less compelling. Company released v2 but market moved on. Operations scaled down significantly.",
-    "sources": [
-      "https://www.kickstarter.com/projects/podolabs/podo-the-first-stick-and-shoot-camera",
-      "https://www.podolabs.com/"
-    ]
-  },
-  {
-    "name": "WonderCube",
-    "kickstarter_url": "https://www.kickstarter.com/projects/1690656850/wondercube-the-1-cubic-inch-wonder-for-your-mobile",
-    "image_url": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800",
-    "amount_raised": 466000,
-    "backers": 5000,
-    "goal": 50000,
-    "funded_date": "2014-12-01",
-    "last_update": "2016-06-01",
-    "category": "Technology/Mobile",
-    "failure_reason": "8-in-1 smartphone accessory cube (charger, stand, flashlight, etc.) raised $466K. Delivered very late with quality issues. Required design compromises made each function mediocre. Another 'Swiss army knife' gadget that tried to do too much.",
-    "sources": [
-      "https://www.kickstarter.com/projects/1690656850/wondercube-the-1-cubic-inch-wonder-for-your-mobile",
-      "https://www.kicktraq.com/"
-    ]
-  },
-  {
-    "name": "Misfit Bolt Smart Bulb",
-    "kickstarter_url": "https://www.indiegogo.com/projects/misfit-bolt",
-    "image_url": "https://images.unsplash.com/photo-1550985543-f47f38aeee65?w=800",
-    "amount_raised": 200000,
-    "backers": 1500,
-    "goal": 100000,
-    "funded_date": "2015-01-01",
-    "last_update": "2017-01-01",
-    "category": "Technology/Smart Home",
-    "failure_reason": "Smart LED bulb syncing with Misfit wearables. Fossil acquired Misfit in 2015 for $260M, discontinued Bolt product line. Cloud services ended, leaving bulbs as dumb lights. Example of acquisition killing crowdfunded products.",
-    "sources": [
-      "https://www.indiegogo.com/projects/misfit-bolt",
-      "https://www.wareable.com/"
-    ]
-  },
-  {
-    "name": "Ring Video Doorbell",
-    "kickstarter_url": "https://www.kickstarter.com/projects/jamie/ring-video-doorbell",
-    "image_url": "https://images.unsplash.com/photo-1558002038-1055907df827?w=800",
-    "amount_raised": 364000,
-    "backers": 1600,
-    "goal": 250000,
-    "funded_date": "2013-11-01",
-    "last_update": "2014-12-01",
-    "category": "Technology/Smart Home",
-    "failure_reason": "Now-famous Ring (acquired by Amazon for $1B) had rocky Kickstarter start. 'Doorbot' version delivered very late with significant issues. Many original backers didn't receive working units or waited years. Success came after Kickstarter, not through it.",
-    "sources": [
-      "https://www.kickstarter.com/projects/jamie/ring-video-doorbell",
-      "https://www.theverge.com/"
-    ]
-  },
-  {
-    "name": "Flyboard Air",
-    "kickstarter_url": "https://www.zapata.com/flyboard-air",
-    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-    "amount_raised": 0,
-    "backers": 0,
-    "goal": 0,
-    "funded_date": "2016-04-01",
-    "last_update": "2019-07-14",
-    "category": "Technology/Transportation",
-    "failure_reason": "Jet-powered personal flight board went viral with demos. Not crowdfunded but represents vaporware trend. Never commercially available despite years of promises. Franky Zapata attempted Channel crossing 2019, crashed. Military contracts but no consumer product.",
-    "sources": [
-      "https://www.zapata.com/flyboard-air",
-      "https://en.wikipedia.org/wiki/Jet-powered_flight_hoverboard"
-    ]
-  },
-  {
-    "name": "POP Portable Power",
-    "kickstarter_url": "https://www.kickstarter.com/projects/edisonjunior/pop-charger-the-worlds-smallest-phone-charger",
-    "image_url": "https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800",
-    "amount_raised": 139170,
-    "backers": 2500,
-    "goal": 50000,
-    "funded_date": "2012-11-01",
-    "last_update": "2012-12-21",
-    "category": "Technology/Mobile",
-    "failure_reason": "Tiny emergency phone charger raised $139K. Apple refused to license Lightning connector, making iOS version impossible. Edison Junior refunded all money - rare case of full refund due to third-party blocking product completion.",
-    "sources": [
-      "https://apple.slashdot.org/story/12/12/21/1339205/apple-kills-a-kickstarter-project---updated",
-      "https://www.kickstarter.com/projects/edisonjunior/pop-charger-the-worlds-smallest-phone-charger"
-    ]
-  },
-  {
-    "name": "Geek Wave",
-    "kickstarter_url": "https://www.kickstarter.com/projects/1990578456/geek-wave-hi-res-music-player-for-the-rest-of-us",
-    "image_url": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=800",
-    "amount_raised": 330000,
-    "backers": 2000,
-    "goal": 99000,
-    "funded_date": "2015-01-01",
-    "last_update": "2018-01-01",
-    "category": "Technology/Sound",
-    "failure_reason": "High-resolution portable music player raised $330K. Faced competition from smartphones with better DACs, LG V-series phones, and dedicated players. Development delays and market changes left product obsolete before shipping to most backers.",
-    "sources": [
-      "https://www.kickstarter.com/projects/1990578456/geek-wave-hi-res-music-player-for-the-rest-of-us",
-      "https://www.kicktraq.com/"
-    ]
-  },
-  {
-    "name": "ONO 3D Printer",
-    "kickstarter_url": "https://www.kickstarter.com/projects/olo3d/olo-the-first-ever-smartphone-3d-printer",
-    "image_url": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=800",
-    "amount_raised": 2321157,
-    "backers": 16716,
-    "goal": 50000,
-    "funded_date": "2016-04-21",
-    "last_update": "2019-01-01",
-    "category": "Technology/3D Printing",
-    "failure_reason": "The $99 smartphone 3D printer raised $2.3M but failed to deliver working units. Renamed from OLO to ONO after trademark dispute. Community knew it was failure 1-2 years before official announcement. Concept physically couldn't work as advertised.",
-    "sources": [
-      "https://www.kickstarter.com/projects/olo3d/olo-the-first-ever-smartphone-3d-printer",
-      "https://news.ycombinator.com/item?id=25629477"
-    ]
-  },
-  {
-    "name": "Robot Dragonfly (TechJect)",
-    "kickstarter_url": "https://www.kickstarter.com/projects/techject/robot-dragonfly-micro-aerial-vehicle",
-    "image_url": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?w=800",
-    "amount_raised": 1140975,
-    "backers": 2900,
-    "goal": 110000,
-    "funded_date": "2012-11-18",
-    "last_update": "2016-01-01",
-    "category": "Technology/Drones",
-    "failure_reason": "Insect-inspired micro drone raised $1.1M but faced impossible hardware challenges. Wings, transmission gears, servo system, and overheating chips all failed. Unable to bring robust product to market. Team eventually dissolved.",
-    "sources": [
-      "https://www.kickstarter.com/projects/techject/robot-dragonfly-micro-aerial-vehicle",
-      "https://www.androidauthority.com/6-crowdfunded-devices-were-still-waiting-for-703433/"
-    ]
-  },
-  {
-    "name": "Yomee Yogurt Maker",
-    "kickstarter_url": "https://www.kickstarter.com/projects/yomee/yomee-the-automatic-yogurt-maker",
-    "image_url": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=800",
-    "amount_raised": 650000,
-    "backers": 3500,
-    "goal": 50000,
-    "funded_date": "2017-02-01",
-    "last_update": "2023-06-01",
-    "category": "Food/Kitchen",
-    "failure_reason": "Automatic yogurt maker raised funds but announced failure June 2023. Was NOT acquired by kitchen appliance company as hoped. Only small number of pre-production units offered in Hong Kong/Singapore. US backers received nothing.",
-    "sources": [
-      "https://www.kickstarter.com/projects/yomee/yomee-the-automatic-yogurt-maker",
-      "https://news.ycombinator.com/item?id=25629477"
-    ]
-  },
-  {
-    "name": "Auxillite Smart Headphone Stand",
-    "kickstarter_url": "https://www.kickstarter.com/projects/nbition/auxillite-the-smartest-headphone-stand",
-    "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800",
-    "amount_raised": 250000,
-    "backers": 2000,
-    "goal": 50000,
-    "funded_date": "2016-04-01",
-    "last_update": "2017-06-01",
-    "category": "Technology/Sound",
-    "failure_reason": "Connected to serial scam team (Nbition/Chiu brothers) behind Arist, ZNAPS, and Toasteroid. Raised $250K for smart headphone stand with USB hub and charger. No products ever delivered despite successful funding.",
-    "sources": [
-      "https://www.kickstarter.com/projects/nbition/auxillite-the-smartest-headphone-stand",
-      "https://dandesim.one/2017/03/15/nbition-kickstarter-scam-znaps"
-    ]
-  },
-  {
-    "name": "Saygus V2 Phone",
-    "kickstarter_url": "https://www.indiegogo.com/projects/saygus-v-squared-the-most-advanced-smartphone",
-    "image_url": "https://images.unsplash.com/photo-1512054502232-10a0a035d672?w=800",
-    "amount_raised": 600000,
-    "backers": 1200,
-    "goal": 500000,
-    "funded_date": "2015-02-01",
-    "last_update": "2018-01-01",
-    "category": "Technology/Mobile",
-    "failure_reason": "Utah company promised 'most advanced smartphone' with waterproofing, dual SD slots, fingerprint scanner. Delayed years past 2015 ship date. Shipped very few units that had major issues. Company still technically exists but product never properly delivered.",
-    "sources": [
-      "https://www.indiegogo.com/projects/saygus-v-squared-the-most-advanced-smartphone",
-      "https://www.androidauthority.com/6-crowdfunded-devices-were-still-waiting-for-703433/"
-    ]
-  },
-  {
-    "name": "Turing Phone",
-    "kickstarter_url": "https://www.turingphone.com/",
-    "image_url": "https://images.unsplash.com/photo-1512054502232-10a0a035d672?w=800",
-    "amount_raised": 1000000,
-    "backers": 3000,
-    "goal": 500000,
-    "funded_date": "2015-07-01",
-    "last_update": "2017-12-01",
-    "category": "Technology/Mobile",
-    "failure_reason": "Promised unhackable phone with 'Liquidmorphium' metal body. Pre-orders taken then OS switched from Android to Sailfish. Switched to even more expensive Turing Phone Cadenza. Company collapsed, moved to China, eventually shut down without delivering.",
-    "sources": [
-      "https://www.theverge.com/2016/7/14/12191606/turing-phone-shipping-delay-again",
-      "https://www.androidpolice.com/2017/12/05/turing-phone-officially-dead/"
-    ]
-  },
-  {
-    "name": "Comet Smartphone",
-    "kickstarter_url": "https://www.indiegogo.com/projects/comet-the-world-s-most-buoyant-smartphone",
-    "image_url": "https://images.unsplash.com/photo-1512054502232-10a0a035d672?w=800",
-    "amount_raised": 800000,
-    "backers": 2500,
-    "goal": 200000,
-    "funded_date": "2016-06-01",
-    "last_update": "2018-01-01",
-    "category": "Technology/Mobile",
-    "failure_reason": "Floating waterproof smartphone from the Comet Buoyant team. Despite raising $800K, phone never materialized. Team went quiet after repeated delays. Another case of impossible hardware promises from inexperienced creators.",
-    "sources": [
-      "https://www.indiegogo.com/projects/comet-the-world-s-most-buoyant-smartphone",
-      "https://www.androidauthority.com/6-crowdfunded-devices-were-still-waiting-for-703433/"
-    ]
-  },
-  {
-    "name": "Portal Smart Home Hub",
-    "kickstarter_url": "https://www.kickstarter.com/projects/portalwifi/portal-the-wifi-that-connects-everything",
-    "image_url": "https://images.unsplash.com/photo-1558618047-f4b511cc0b22?w=800",
-    "amount_raised": 560000,
-    "backers": 3200,
-    "goal": 50000,
-    "funded_date": "2015-09-01",
-    "last_update": "2019-01-01",
-    "category": "Technology/Smart Home",
-    "failure_reason": "Smart WiFi router with mesh networking and smart home hub raised $560K. Delivered late with numerous issues. Company pivoted to B2B, discontinued consumer support. Early adopters left with unsupported hardware.",
-    "sources": [
-      "https://www.kickstarter.com/projects/portalwifi/portal-the-wifi-that-connects-everything",
-      "https://www.kicktraq.com/"
-    ]
-  },
-  {
-    "name": "PicoBrew Zymatic",
-    "kickstarter_url": "https://www.kickstarter.com/projects/picobrew/zymatic-the-automatic-beer-brewing-appliance",
-    "image_url": "https://images.unsplash.com/photo-1558642452-9d2a7deb7f62?w=800",
-    "amount_raised": 661226,
-    "backers": 391,
-    "goal": 150000,
-    "funded_date": "2013-11-18",
-    "last_update": "2020-02-14",
-    "category": "Food/Kitchen",
-    "failure_reason": "Original PicoBrew product raised $661K. While initially successful, parent company eventually failed. February 2020 receivership with $15.2M debt. Cloud-dependent machines bricked (Error #7). All PicoBrew products now unsupported.",
-    "sources": [
-      "https://www.kickstarter.com/projects/picobrew/zymatic-the-automatic-beer-brewing-appliance",
-      "https://www.americancraftbeer.com/113312-2/"
-    ]
-  },
-  {
-    "name": "Cram Board Gaming Table",
-    "kickstarter_url": "https://www.kickstarter.com/projects/cram/cram-the-ultimate-board-gaming-table",
-    "image_url": "https://images.unsplash.com/photo-1610890716171-6b1bb98ffd09?w=800",
-    "amount_raised": 400000,
-    "backers": 600,
-    "goal": 50000,
-    "funded_date": "2019-01-01",
-    "last_update": "2021-01-01",
-    "category": "Games/Hardware",
-    "failure_reason": "Gaming table with recessed playing surface, cup holders, and accessories raised $400K. Furniture shipping proved costly and complicated. Quality control issues, delays, and pandemic supply chain problems led to partial deliveries at best.",
-    "sources": [
-      "https://www.kickstarter.com/projects/cram/cram-the-ultimate-board-gaming-table",
-      "https://www.kicktraq.com/"
-    ]
-  },
-  {
-    "name": "Remee Lucid Dreaming Mask",
-    "kickstarter_url": "https://www.kickstarter.com/projects/bitbangerlabs/remee-the-rem-enhancing-lucid-dreaming-mask",
-    "image_url": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=800",
-    "amount_raised": 572891,
-    "backers": 6800,
-    "goal": 35000,
-    "funded_date": "2012-06-10",
-    "last_update": "2014-01-01",
-    "category": "Technology/Wearables",
-    "failure_reason": "Sleep mask with LEDs to induce lucid dreaming raised $572K. Delivered, but users found it didn't work reliably for most people. Scientific basis questionable. Company eventually discontinued product and went quiet.",
-    "sources": [
-      "https://www.kickstarter.com/projects/bitbangerlabs/remee-the-rem-enhancing-lucid-dreaming-mask",
-      "https://www.kicktraq.com/"
-    ]
-  },
-  {
-    "name": "Muse Brain-Sensing Headband",
-    "kickstarter_url": "https://www.indiegogo.com/projects/muse-the-brain-sensing-headband",
-    "image_url": "https://images.unsplash.com/photo-1541781774459-bb2af2f05b55?w=800",
-    "amount_raised": 287000,
-    "backers": 2100,
-    "goal": 150000,
-    "funded_date": "2013-05-01",
-    "last_update": "2020-01-01",
-    "category": "Technology/Wearables",
-    "failure_reason": "EEG headband for meditation raised funds successfully and shipped. However, company struggled financially, required subscription for full features, and original backers felt misled about ongoing costs. Product evolved away from original promises.",
-    "sources": [
-      "https://www.indiegogo.com/projects/muse-the-brain-sensing-headband",
-      "https://choosemuse.com/"
-    ]
-  },
-  {
-    "name": "SCiO Molecular Scanner",
-    "kickstarter_url": "https://www.kickstarter.com/projects/702165455/scio-your-sixth-sense-a-pocket-molecular-sensor-fo",
-    "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
-    "amount_raised": 2762571,
-    "backers": 13000,
-    "goal": 200000,
-    "funded_date": "2014-06-15",
-    "last_update": "2017-01-01",
+    "last_update": "2017-04-15",
     "category": "Technology/Hardware",
-    "failure_reason": "Pocket spectrometer claiming to analyze molecular composition of anything raised $2.7M. Shipped years late with severely limited functionality. Could only analyze pre-scanned materials in database. Real-world accuracy poor. Company pivoted to B2B.",
+    "failure_reason": "Keychain gadget combining charger, locator, and remote raised $1.2M (30x goal) from 14,000 backers. Creator Doros Kyriakoulis announced in April 2017 he was out of money, shutting down, and considering bankruptcy. No products delivered to most backers.",
     "sources": [
-      "https://www.kickstarter.com/projects/702165455/scio-your-sixth-sense-a-pocket-molecular-sensor-fo",
-      "https://www.wired.com/2017/01/scio-pocket-sized-spectrometer-not-worth-money/"
-    ]
-  },
-  {
-    "name": "SGNL Smart Strap",
-    "kickstarter_url": "https://www.kickstarter.com/projects/sgnlstrap/sgnl-make-phone-calls-with-your-fingertip",
-    "image_url": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=800",
-    "amount_raised": 1537124,
-    "backers": 10000,
-    "goal": 50000,
-    "funded_date": "2016-11-01",
-    "last_update": "2018-06-01",
-    "category": "Technology/Wearables",
-    "failure_reason": "Watch strap using bone conduction to take calls with finger to ear raised $1.5M. Shipped very late with poor audio quality. Bluetooth connectivity issues. Bone conduction technology didn't work well in practice. Company went quiet.",
-    "sources": [
-      "https://www.kickstarter.com/projects/sgnlstrap/sgnl-make-phone-calls-with-your-fingertip",
-      "https://www.wareable.com/"
-    ]
-  },
-  {
-    "name": "Laundroid Folding Robot",
-    "kickstarter_url": "https://laundroid.sevendreamers.com/",
-    "image_url": "https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800",
-    "amount_raised": 60000000,
-    "backers": 0,
-    "goal": 0,
-    "funded_date": "2015-10-01",
-    "last_update": "2019-04-23",
-    "category": "Technology/Robotics",
-    "failure_reason": "Japanese company Seven Dreamers raised $60M for laundry-folding robot priced at $16,000. Promised 2019 release after years of demos. Company filed for bankruptcy April 2019. Robot was too slow (10+ minutes per item) and never commercially viable.",
-    "sources": [
-      "https://spectrum.ieee.org/laundroid-laundry-folding-robot-is-finally-dead",
-      "https://techcrunch.com/2019/04/23/seven-dreamers-the-startup-behind-the-laundroid-has-declared-bankruptcy/"
-    ]
-  },
-  {
-    "name": "Essential Phone",
-    "kickstarter_url": "https://www.essential.com/",
-    "image_url": "https://images.unsplash.com/photo-1512054502232-10a0a035d672?w=800",
-    "amount_raised": 330000000,
-    "backers": 0,
-    "goal": 0,
-    "funded_date": "2017-08-01",
-    "last_update": "2020-02-12",
-    "category": "Technology/Mobile",
-    "failure_reason": "Andy Rubin's (Android creator) startup raised $330M for modular smartphone. PH-1 phone had camera issues, modular accessories never materialized. Second phone cancelled. Company shut down February 2020. Showed even Android's creator couldn't succeed in hardware.",
-    "sources": [
-      "https://www.theverge.com/2020/2/12/21134985/essential-phone-shutting-down-newton-mail",
-      "https://www.failory.com/cemetery/essential"
+      "https://www.indiegogo.com/projects/gokey-the-smart-key-for-connected-living",
+      "https://www.crowdfundinsider.com/2017/04/98735-crowdfunding-failure-gokey-creator-looks-bankruptcy-raising-1-2-million-indiegogo/"
+    ],
+    "tags": [
+      "Ran Out of Money",
+      "Never Delivered"
     ]
   }
 ]

@@ -257,6 +257,77 @@
             font-size: 1.2rem;
         }
 
+        .card-tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+            margin-bottom: 15px;
+        }
+
+        .tag {
+            font-size: 0.7rem;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.3px;
+        }
+
+        .tag-fraudscam {
+            background: rgba(255, 82, 82, 0.2);
+            color: #ff5252;
+        }
+
+        .tag-manufacturingissues {
+            background: rgba(255, 171, 64, 0.2);
+            color: #ffab40;
+        }
+
+        .tag-technicallyimpossible {
+            background: rgba(156, 39, 176, 0.2);
+            color: #ce93d8;
+        }
+
+        .tag-ranoutofmoney {
+            background: rgba(255, 193, 7, 0.2);
+            color: #ffc107;
+        }
+
+        .tag-companyshutdown {
+            background: rgba(158, 158, 158, 0.2);
+            color: #9e9e9e;
+        }
+
+        .tag-neverdelivered {
+            background: rgba(244, 67, 54, 0.2);
+            color: #f44336;
+        }
+
+        .tag-partialdelivery {
+            background: rgba(255, 152, 0, 0.2);
+            color: #ff9800;
+        }
+
+        .tag-shippingproblems {
+            background: rgba(33, 150, 243, 0.2);
+            color: #2196f3;
+        }
+
+        .tag-poorquality {
+            background: rgba(121, 85, 72, 0.2);
+            color: #a1887f;
+        }
+
+        .tag-overpromised {
+            background: rgba(0, 188, 212, 0.2);
+            color: #00bcd4;
+        }
+
+        .tag-projectfailed {
+            background: rgba(96, 125, 139, 0.2);
+            color: #90a4ae;
+        }
+
         @media (max-width: 500px) {
             .grid {
                 grid-template-columns: 1fr;
@@ -310,6 +381,9 @@
         <select class="filter-select" id="category-filter">
             <option value="">All Categories</option>
         </select>
+        <select class="filter-select" id="tag-filter">
+            <option value="">All Failure Types</option>
+        </select>
         <button class="sort-btn active" data-sort="amount" id="sort-amount">Sort by Amount</button>
         <button class="sort-btn" data-sort="date" id="sort-date">Sort by Date</button>
         <button class="sort-btn" data-sort="backers" id="sort-backers">Sort by Backers</button>
@@ -331,6 +405,7 @@
                 projects = await response.json();
                 updateStats();
                 populateCategories();
+                populateTags();
                 renderProjects();
             } catch (error) {
                 console.error('Error loading data:', error);
@@ -358,6 +433,18 @@
             });
         }
 
+        function populateTags() {
+            const allTags = projects.flatMap(p => p.tags || []);
+            const tags = [...new Set(allTags)].sort();
+            const select = document.getElementById('tag-filter');
+            tags.forEach(tag => {
+                const option = document.createElement('option');
+                option.value = tag;
+                option.textContent = tag;
+                select.appendChild(option);
+            });
+        }
+
         function formatNumber(num) {
             if (num >= 1000000) {
                 return (num / 1000000).toFixed(1) + 'M';
@@ -371,16 +458,62 @@
             return '$' + num.toLocaleString();
         }
 
+        function getSourceName(url) {
+            const domainMap = {
+                'kickstarter.com': 'Kickstarter',
+                'indiegogo.com': 'Indiegogo',
+                'wikipedia.org': 'Wikipedia',
+                'en.wikipedia.org': 'Wikipedia',
+                'techcrunch.com': 'TechCrunch',
+                'theverge.com': 'The Verge',
+                'engadget.com': 'Engadget',
+                'gizmodo.com': 'Gizmodo',
+                'wired.com': 'Wired',
+                'medium.com': 'Medium',
+                'reddit.com': 'Reddit',
+                'youtube.com': 'YouTube',
+                'twitter.com': 'Twitter',
+                'failory.com': 'Failory',
+                'backerkit.com': 'BackerKit',
+                'kicktraq.com': 'Kicktraq',
+                'ftc.gov': 'FTC',
+                'hackaday.com': 'Hackaday',
+                'thespoon.tech': 'The Spoon',
+                'crowdfundinsider.com': 'Crowdfund Insider',
+                'androidpolice.com': 'Android Police',
+                'slashgear.com': 'SlashGear',
+                'geekwire.com': 'GeekWire',
+                'washingtonpost.com': 'Washington Post',
+                'fortune.com': 'Fortune',
+                'boardgamewire.com': 'Board Game Wire',
+                'bbb.org': 'BBB',
+                'eevblog.com': 'EEVBlog',
+                'kguttag.com': 'KGOnTech',
+                'gearjunkie.com': 'GearJunkie',
+                'stltoday.com': 'St. Louis Today',
+                'thedanzing.com': 'The Danzing'
+            };
+
+            try {
+                const hostname = new URL(url).hostname.replace('www.', '');
+                return domainMap[hostname] || hostname.split('.')[0].charAt(0).toUpperCase() + hostname.split('.')[0].slice(1);
+            } catch {
+                return 'Source';
+            }
+        }
+
         function getFilteredProjects() {
             const searchTerm = document.getElementById('search').value.toLowerCase();
             const categoryFilter = document.getElementById('category-filter').value;
+            const tagFilter = document.getElementById('tag-filter').value;
 
             let filtered = projects.filter(p => {
                 const matchesSearch = p.name.toLowerCase().includes(searchTerm) ||
                                      p.failure_reason.toLowerCase().includes(searchTerm) ||
                                      p.category.toLowerCase().includes(searchTerm);
                 const matchesCategory = !categoryFilter || p.category === categoryFilter;
-                return matchesSearch && matchesCategory;
+                const matchesTag = !tagFilter || (p.tags && p.tags.includes(tagFilter));
+                return matchesSearch && matchesCategory && matchesTag;
             });
 
             // Sort
@@ -427,6 +560,9 @@
                             </h2>
                             <span class="card-category">${project.category.split('/').pop()}</span>
                         </div>
+                        <div class="card-tags">
+                            ${project.tags.map(tag => `<span class="tag tag-${tag.toLowerCase().replace(/[^a-z]/g, '')}">${tag}</span>`).join('')}
+                        </div>
                         <div class="card-stats">
                             <div class="card-stat">
                                 <div class="value">${formatCurrency(project.amount_raised)}</div>
@@ -447,8 +583,8 @@
                         </div>
                         <p class="failure-reason">${project.failure_reason}</p>
                         <div class="card-footer">
-                            ${project.sources.map((src, i) => `
-                                <a href="${src}" target="_blank" rel="noopener" class="source-link">Source ${i + 1}</a>
+                            ${project.sources.map(src => `
+                                <a href="${src}" target="_blank" rel="noopener" class="source-link">${getSourceName(src)}</a>
                             `).join('')}
                         </div>
                     </div>
@@ -459,6 +595,7 @@
         // Event listeners
         document.getElementById('search').addEventListener('input', renderProjects);
         document.getElementById('category-filter').addEventListener('change', renderProjects);
+        document.getElementById('tag-filter').addEventListener('change', renderProjects);
 
         document.querySelectorAll('.sort-btn').forEach(btn => {
             btn.addEventListener('click', () => {
