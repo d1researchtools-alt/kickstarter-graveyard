@@ -411,7 +411,7 @@
   },
   {
     "name": "Dragonfly Futurefön",
-    "kickstarter_url": "https://www.indiegogo.com/projects/dragonfly-futurefon-the-world-s-only-3-in-1-device",
+    "kickstarter_url": "https://www.indiegogo.com/projects/the-dragonfly-futurefon--3",
     "image_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=800",
     "amount_raised": 1373225,
     "backers": 7983,
@@ -419,9 +419,9 @@
     "funded_date": "2015-12-19",
     "last_update": "2019-08-13",
     "category": "Technology/Phones",
-    "failure_reason": "3-in-1 phone/tablet/laptop promised Windows and Android for $799. Creator Jeffrey Batio ran two Indiegogo campaigns but specs were impossible - 7-inch device claimed to weigh same as Galaxy S5. FBI investigation revealed decade-long fraud. Batio convicted on 12 counts, sentenced to 8 years prison, ordered to pay $5.77M restitution.",
+    "failure_reason": "Indiegogo campaign. 3-in-1 phone/tablet/laptop raised $1.3M across two campaigns. Creator Jeffrey Batio ran a decade-long fraud. FBI investigation led to conviction on 12 counts. Sentenced to 8 years prison, ordered to pay $5.77M restitution.",
     "sources": [
-      "https://www.indiegogo.com/projects/dragonfly-futurefon-the-world-s-only-3-in-1-device",
+      "https://www.indiegogo.com/projects/the-dragonfly-futurefon--3",
       "https://www.justice.gov/usao-ndil/pr/silicon-valley-computer-executive-convicted-defrauding-investors-after-soliciting-money"
     ],
     "tags": [
@@ -431,7 +431,7 @@
   },
   {
     "name": "Triton Artificial Gills",
-    "kickstarter_url": "https://www.indiegogo.com/projects/triton-world-s-first-artificial-gills-re-breather",
+    "kickstarter_url": "https://gearjunkie.com/news/refunded-triton-artificial-gills-campaign-update",
     "image_url": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=800",
     "amount_raised": 900000,
     "backers": 6500,
@@ -439,10 +439,10 @@
     "funded_date": "2016-04-01",
     "last_update": "2016-05-01",
     "category": "Sports/Diving",
-    "failure_reason": "Claimed to extract oxygen from water for 45-minute underwater breathing - physically impossible according to UC Berkeley chemistry professors. After backlash, changed story to 'liquid oxygen cylinders' (also impossible at claimed specs). Forced to refund $900K. Second campaign raised $500K before Indiegogo banned it.",
+    "failure_reason": "Indiegogo campaign (page removed after refunds). Claimed to extract oxygen from water for 45-minute underwater breathing - physically impossible according to UC Berkeley chemistry professors. After backlash, changed story to \"liquid oxygen cylinders\" (also dangerous). Forced to refund $900K to backers.",
     "sources": [
-      "https://www.indiegogo.com/projects/triton-world-s-first-artificial-gills-re-breather",
-      "https://gearjunkie.com/news/refunded-triton-artificial-gills-campaign-update"
+      "https://gearjunkie.com/news/refunded-triton-artificial-gills-campaign-update",
+      "https://www.deeperblue.com/artificial-gills-scam-product-triton-comes-clean-refunds-supporters/"
     ],
     "tags": [
       "Technically Impossible"
@@ -450,7 +450,7 @@
   },
   {
     "name": "Kanoa Wireless Earbuds",
-    "kickstarter_url": "https://www.indiegogo.com/projects/kanoa-truly-wireless-earphones",
+    "kickstarter_url": "https://www.crowdfundinsider.com/2017/08/121101-kanoa-fail-ear-wireless-headphones-company-collapses-review-slams-worst-headphones-ever/",
     "image_url": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?w=800",
     "amount_raised": 1500000,
     "backers": 10000,
@@ -458,9 +458,9 @@
     "funded_date": "2015-12-01",
     "last_update": "2017-08-26",
     "category": "Technology/Audio",
-    "failure_reason": "Truly wireless earbuds at $150-$300 pledges. Manufacturer only planned to make ~24 units, not thousands ordered. Offered YouTuber $500 bribe for positive review - he exposed them instead. Company shut down 4 days after devastating review went viral. No FCC certification obtained. No refunds offered.",
+    "failure_reason": "Indiegogo campaign (page removed/pending review). Truly wireless earbuds raised $1.5M. Manufacturer only planned to make ~24 units. Offered YouTuber $500 bribe for positive review - he exposed them instead, calling them \"trash\". Company shut down 4 days after devastating review went viral.",
     "sources": [
-      "https://www.indiegogo.com/projects/kanoa-truly-wireless-earphones",
+      "https://www.crowdfundinsider.com/2017/08/121101-kanoa-fail-ear-wireless-headphones-company-collapses-review-slams-worst-headphones-ever/",
       "https://fortune.com/2017/08/27/headphone-startup-kanoa-youtube-review/"
     ],
     "tags": [
@@ -473,7 +473,7 @@
   },
   {
     "name": "Fontus Self-Filling Water Bottle",
-    "kickstarter_url": "https://www.indiegogo.com/projects/fontus-the-self-filling-water-bottles",
+    "kickstarter_url": "https://hydrationanywhere.com/looks-like-fontus-self-filling-water-bottle-scam/",
     "image_url": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=800",
     "amount_raised": 345000,
     "backers": 2800,
@@ -481,9 +481,9 @@
     "funded_date": "2016-04-15",
     "last_update": "2018-01-01",
     "category": "Technology/Outdoors",
-    "failure_reason": "Claimed to capture moisture from air to fill water bottle using solar power. EEVBlog debunked with basic thermodynamics - at best would produce 1 liter in 60 hours. Fine print stated no refunds if product didn't work. Videos were demonstrations, not working prototypes. Never shipped anything resembling advertised product.",
+    "failure_reason": "Indiegogo campaign (page likely removed). Claimed to capture moisture from air using solar power. EEVBlog debunked with basic thermodynamics - solar panel was 2.5x too weak. At best would produce 1 liter in 60+ hours. Never shipped anything resembling advertised product.",
     "sources": [
-      "https://www.indiegogo.com/projects/fontus-the-self-filling-water-bottles",
+      "https://hydrationanywhere.com/looks-like-fontus-self-filling-water-bottle-scam/",
       "https://www.eevblog.com/2016/05/18/eevblog-881-fontus-self-filling-water-bottle-busted/"
     ],
     "tags": [
@@ -501,7 +501,7 @@
     "funded_date": "2015-10-15",
     "last_update": "2022-03-29",
     "category": "Technology/Personal Care",
-    "failure_reason": "Originally raised $4M on Kickstarter before being suspended for lacking working prototype. Moved to Indiegogo, raised $500K+. Promised March 2016 delivery. As of December 2025, still no product - last update March 2022. Founders sued each other in 2019. Campaign page shows 'awaiting update' for years.",
+    "failure_reason": "Originally raised $4M on Kickstarter before being suspended for lacking working prototype. Moved to Indiegogo, raised $500K+. Promised March 2016 delivery. As of December 2025, still no product. Last update March 2022. Founders sued each other in 2019. Indiegogo page shows \"awaiting update\" for years.",
     "sources": [
       "https://www.indiegogo.com/projects/the-skarp-laser-razor-21st-century-shaving-new-health",
       "https://en.wikipedia.org/wiki/Skarp_Technologies"
@@ -513,7 +513,7 @@
   },
   {
     "name": "GOKey",
-    "kickstarter_url": "https://www.indiegogo.com/projects/gokey-the-smart-key-for-connected-living",
+    "kickstarter_url": "https://www.crowdfundinsider.com/2017/04/98735-crowdfunding-failure-gokey-creator-looks-bankruptcy-raising-1-2-million-indiegogo/",
     "image_url": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800",
     "amount_raised": 1200000,
     "backers": 14000,
@@ -521,10 +521,10 @@
     "funded_date": "2015-06-01",
     "last_update": "2017-04-15",
     "category": "Technology/Hardware",
-    "failure_reason": "Keychain gadget combining charger, locator, and remote raised $1.2M (30x goal) from 14,000 backers. Creator Doros Kyriakoulis announced in April 2017 he was out of money, shutting down, and considering bankruptcy. No products delivered to most backers.",
+    "failure_reason": "Indiegogo campaign (page removed). Keychain gadget combining charger, locator, and remote raised $1.2M (30x goal) from 14,000 backers. Creator Doros Kyriakoulis announced April 2017 he was out of money and considering bankruptcy. No products delivered.",
     "sources": [
-      "https://www.indiegogo.com/projects/gokey-the-smart-key-for-connected-living",
-      "https://www.crowdfundinsider.com/2017/04/98735-crowdfunding-failure-gokey-creator-looks-bankruptcy-raising-1-2-million-indiegogo/"
+      "https://www.crowdfundinsider.com/2017/04/98735-crowdfunding-failure-gokey-creator-looks-bankruptcy-raising-1-2-million-indiegogo/",
+      "https://www.digitaltrends.com/cool-tech/biggest-kickstarter-and-indiegogo-scams/"
     ],
     "tags": [
       "Ran Out of Money",
