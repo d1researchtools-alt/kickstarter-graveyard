@@ -9,7 +9,7 @@
     "funded_date": "2011-07-31",
     "last_update": "2012-04-15",
     "category": "Technology/Wearables",
-    "failure_reason": "Seattle team promised HD video recording glasses with Facebook streaming by Winter 2011. Last substantive update April 2012. Rebranded to 'Zeyez' claiming partnership delays. Photo of founders on Thailand beach surfaced after funding. Backers formed 'ZionKick' forum calling it scam. No products ever delivered to any of 2,106 backers.",
+    "failure_reason": "Seattle team promised HD video recording glasses with Facebook streaming by Winter 2011. Last substantive update April 2012. Rebranded to 'Zeyez' claiming partnership delays. Photo of founders on Thailand beach surfaced after funding. Backers formed 'ZionKick' forum calling it scam. No products ever delivered to any of 2,106 backers.\n\nProduct Development Failure: Attempted to build Google Glass-equivalent product with undergraduate team on $343K budget. Underestimated engineering complexity of miniaturizing HD camera, WiFi, battery into eyeglass frame. No working prototype demonstrated post-funding.",
     "sources": [
       "https://www.kickstarter.com/projects/zioneyez/eyeztm-by-zioneyez-hd-video-recording-glasses-for",
       "https://www.geekwire.com/2013/kickstarters-biggest-flops-dead/",
@@ -27,7 +27,7 @@
     "funded_date": "2013-02-22",
     "last_update": "2016-05-01",
     "category": "Technology/Wearables",
-    "failure_reason": "Chicago company promised 0.8mm thin E-Ink watch. Key battery component discontinued mid-project requiring custom solution. Manufacturing yield only 55% - cost per unit ballooned to $260+ vs $129 pledge. Flextronics manufacturing partner walked away. Only 80 units shipped of 8,243 owed. Filed bankruptcy May 2016 with $30K assets vs $891,563 liabilities.",
+    "failure_reason": "Chicago company promised 0.8mm thin E-Ink watch. Key battery component discontinued mid-project requiring custom solution. Manufacturing yield only 55% - cost per unit ballooned to $260+ vs $129 pledge. Flextronics manufacturing partner walked away. Only 80 units shipped of 8,243 owed. Filed bankruptcy May 2016 with $30K assets vs $891,563 liabilities.\n\nProduct Development Failure: Extreme form factor (0.8mm) required custom battery solution when supplier discontinued component. 55% manufacturing yield made unit economics impossible ($260 cost vs $129 pledge). Design prioritized thinness over manufacturability.",
     "sources": [
       "https://www.kickstarter.com/projects/1655017763/cst-01-the-worlds-thinnest-watch",
       "https://www.slashgear.com/cst-01-kickstarter-thinnest-watch-maker-goes-bankrupt-02438668/",
@@ -45,7 +45,7 @@
     "funded_date": "2013-06-20",
     "last_update": "2016-04-30",
     "category": "Technology/Wearables",
-    "failure_reason": "Partnership between Secret Labs (software) and House of Horology (hardware) collapsed over watch case manufacturing disputes. Two years after promised December 2013 delivery, 5,685 backers still empty-handed. Secret Labs sold Netduino brand to Wilderness Labs December 2016. Backers organized legal action via FundedJustice. No watches ever delivered.",
+    "failure_reason": "Partnership between Secret Labs (software) and House of Horology (hardware) collapsed over watch case manufacturing disputes. Two years after promised December 2013 delivery, 5,685 backers still empty-handed. Secret Labs sold Netduino brand to Wilderness Labs December 2016. Backers organized legal action via FundedJustice. No watches ever delivered.\n\nProduct Development Failure: Hardware/software partnership between Secret Labs and House of Horology broke down over manufacturing disputes. Neither party had full product development capability alone. Project management failures cited by backers who investigated.",
     "sources": [
       "https://www.kickstarter.com/projects/secretlabs/agent-the-worlds-smartest-watch",
       "https://www.wareable.com/smartwatches/meet-the-kickstarter-crusader-martin-calsyn",
@@ -63,7 +63,7 @@
     "funded_date": "2013-06-29",
     "last_update": "2016-10-07",
     "category": "Technology/3D Printing",
-    "failure_reason": "Singapore startup by recent graduates raised record $1.44M for $347 consumer 3D printer. First printers due February 2014. By September 2014, only 200 shipped. Company sold retail while 60% of backers waited. October 2015: admitted unable to fulfill remaining orders. Raised additional $2M from investors but still failed. Only 40% of backers received printers, many defective.",
+    "failure_reason": "Singapore startup by recent graduates raised record $1.44M for $347 consumer 3D printer. First printers due February 2014. By September 2014, only 200 shipped. Company sold retail while 60% of backers waited. October 2015: admitted unable to fulfill remaining orders. Raised additional $2M from investors but still failed. Only 40% of backers received printers, many defective.\n\nProduct Development Failure: Recent graduates with no manufacturing experience promised $347 printer competing with $2,200 Makerbot. Price point made profitable manufacturing impossible. Founders admitted design 'was designed by 3 fresh graduates with no training in industrial design and manufacturing.'",
     "sources": [
       "https://www.kickstarter.com/projects/pirate3d/the-buccaneer-the-3d-printer-that-everyone-can-use",
       "https://techcrunch.com/2015/10/14/a-1-5m-kickstarter-project-fails-leaving-most-backers-without-their-3d-printer/",
@@ -81,7 +81,7 @@
     "funded_date": "2013-08-12",
     "last_update": "2014-11-01",
     "category": "Technology/Wearables",
-    "failure_reason": "Raised $1.5M (15x goal) on Indiegogo. Shipped 10 months late with severe hardware/software issues - voice/gesture controls didn't work, couldn't keep time. Company deleted negative reviews, changed T&Cs to deny refunds. Closed 2014.",
+    "failure_reason": "Raised $1.5M (15x goal) on Indiegogo. Shipped 10 months late with severe hardware/software issues - voice/gesture controls didn't work, couldn't keep time. Company deleted negative reviews, changed T&Cs to deny refunds. Closed 2014.\n\nProduct Development Failure: Zero engineers on staff - entire team was marketing. No working prototype at campaign launch. Outsourced to ODM (Viewcooper) with no oversight. Speaker holes muffled audio. Waterproof claim failed on shower. Battery: 24hr vs 7-day claim. Watch couldn't keep time without Bluetooth. Pedometer broken by vibrate motor.",
     "sources": [
       "https://www.indiegogo.com/projects/kreyos-the-only-smartwatch-with-voice-gesture-control",
       "https://en.wikipedia.org/wiki/Kreyos"
@@ -98,7 +98,7 @@
     "funded_date": "2013-10-24",
     "last_update": "2016-05-11",
     "category": "Technology/3D Printing",
-    "failure_reason": "Canadian startup promised revolutionary $100 resin 3D printer. Raised $650K CAD (~$587K USD). Co-founder David Boe embezzled $320K to build personal house. Grayston discovered theft in 2014, kept quiet hoping for repayment. Only $111K recovered. Police investigation launched. Company collapsed May 2016. Zero printers shipped to any of 4,420 backers despite reaching 70% completion on first 600 units.",
+    "failure_reason": "Canadian startup promised revolutionary $100 resin 3D printer. Raised $650K CAD (~$587K USD). Co-founder David Boe embezzled $320K to build personal house. Grayston discovered theft in 2014, kept quiet hoping for repayment. Only $111K recovered. Police investigation launched. Company collapsed May 2016. Zero printers shipped to any of 4,420 backers despite reaching 70% completion on first 600 units.\n\nProduct Development Failure: No corporate bank account at campaign end - funds deposited to co-founder's personal account. Zero financial controls or oversight. Technical product was viable (working prototype existed) but business structure enabled embezzlement.",
     "sources": [
       "https://www.kickstarter.com/projects/117421627/the-peachy-printer-the-first-100-3d-printer-and-sc",
       "https://www.vice.com/en/article/how-a-promising-kickstarter-campaign-devolved-into-embezzlement-allegations/",
@@ -116,7 +116,7 @@
     "funded_date": "2014-03-01",
     "last_update": "2015-09-01",
     "category": "Technology/Wearables",
-    "failure_reason": "Indian startup raised $300K+ across multiple Indiegogo campaigns for smart notification ring. No working prototype - only CGI renders. Promised April 2014 delivery, went silent for 9+ months, then promised \"working prototype\" in 2015. Never delivered any product to backers.",
+    "failure_reason": "Indian startup raised $300K+ across multiple Indiegogo campaigns for smart notification ring. No working prototype - only CGI renders. Promised April 2014 delivery, went silent for 9+ months, then promised \"working prototype\" in 2015. Never delivered any product to backers.\n\nProduct Development Failure: Ring form factor couldn't house sufficient battery for claimed features. Bluetooth, LED display, vibration motor couldn't fit in ring size. Thermal issues with electronics at skin contact. Display visibility in sunlight impossible at that scale.",
     "sources": [
       "https://www.indiegogo.com/en/projects/smartyring/smarty-ring--3/comments",
       "https://www.wareable.com/wearable-tech/worse-for-wear-the-worst-wearable-crowdfunding-campaigns-865"
@@ -133,7 +133,7 @@
     "funded_date": "2014-08-29",
     "last_update": "2019-12-06",
     "category": "Design/Product Design",
-    "failure_reason": "Manufacturing costs exceeded $185 pledge price. Company sold coolers on Amazon for $450+ while 20,000+ backers waited. Oregon DOJ investigation led to 2017 settlement. Tariff increases on Chinese imports proved fatal. Shut down December 2019 with 20,000+ of 62,642 backers never receiving product. Regarded as Kickstarter's largest failure.",
+    "failure_reason": "Manufacturing costs exceeded $185 pledge price. Company sold coolers on Amazon for $450+ while 20,000+ backers waited. Oregon DOJ investigation led to 2017 settlement. Tariff increases on Chinese imports proved fatal. Shut down December 2019 with 20,000+ of 62,642 backers never receiving product. Regarded as Kickstarter's largest failure.\n\nProduct Development Failure: Feature-packed design ($185 pledge) had bill of materials exceeding sale price. Tariffs on Chinese manufacturing added 25% to costs. Classic DFM failure - designed for crowdfunding video appeal, not manufacturing reality.",
     "sources": [
       "https://www.kickstarter.com/projects/ryangrepper/coolest-cooler-21st-century-cooler-thats-actually",
       "https://en.wikipedia.org/wiki/Coolest_Cooler",
@@ -151,7 +151,7 @@
     "funded_date": "2014-09-09",
     "last_update": "2016-08-05",
     "category": "Technology/Wearables",
-    "failure_reason": "Raised $2.5M on Indiegogo + $11M VC. Founders Marcus & Mitchell Weller sued for using funds as \"personal piggy bank\" - luxury cars, trips, strip clubs. Only ~200 of 3,300 helmets shipped. Chapter 7 bankruptcy Aug 2016. Backers got nothing.",
+    "failure_reason": "Raised $2.5M on Indiegogo + $11M VC. Founders Marcus & Mitchell Weller sued for using funds as \"personal piggy bank\" - luxury cars, trips, strip clubs. Only ~200 of 3,300 helmets shipped. Chapter 7 bankruptcy Aug 2016. Backers got nothing.\n\nProduct Development Failure: DFM issues with electronics during production ramp required complete mainboard redesign. Failed EMC testing, forcing FCC re-certification. Transition from prototype to mass production stalled. Only 20-100 units shipped before bankruptcy.",
     "sources": [
       "https://www.indiegogo.com/projects/skully-ar-1-the-world-s-smartest-motorcycle-helmet",
       "https://www.revzilla.com/common-tread/company-that-revived-gas-gas-tries-to-bring-back-skully-helmets"
@@ -168,7 +168,7 @@
     "funded_date": "2014-09-26",
     "last_update": "2016-04-01",
     "category": "Technology/Wearables",
-    "failure_reason": "Raised $1.4M on Indiegogo for \"first projection watch.\" No working prototype existed. Technology physically impossible - pico projector cannot project visible image in daylight at that angle. Founders used fake names, claimed San Francisco but were in Ukraine. Never delivered any product.",
+    "failure_reason": "Raised $1.4M on Indiegogo for \"first projection watch.\" No working prototype existed. Technology physically impossible - pico projector cannot project visible image in daylight at that angle. Founders used fake names, claimed San Francisco but were in Ukraine. Never delivered any product.\n\nProduct Development Failure: Projection onto skin required laser/projector technology too large for watch form factor. Physics of pico projection at claimed brightness impossible at device size. Photoshopped marketing images. Founders used fake identities.",
     "sources": [
       "https://techcrunch.com/2014/09/30/the-impossible-projection-watch-hits-1-4-million-in-crowdfunding/",
       "https://www.youtube.com/watch?v=7OfiUrqdsVU&t=99s"
@@ -185,7 +185,7 @@
     "funded_date": "2015-01-08",
     "last_update": "2015-11-18",
     "category": "Technology/Hardware",
-    "failure_reason": "Company filed for liquidation in November 2015 after shipping only 600 barely functional units out of 15,000 orders. Promotional video was faked using a DJI Inspire drone. Over-ambitious stretch goals and financial mismanagement led to collapse.",
+    "failure_reason": "Company filed for liquidation in November 2015 after shipping only 600 barely functional units out of 15,000 orders. Promotional video was faked using a DJI Inspire drone. Over-ambitious stretch goals and financial mismanagement led to collapse.\n\nProduct Development Failure: Promotional video faked using DJI Inspire. Stretch goals (thermal imaging, facial recognition) exceeded team capability. Propellers from China failed testing. Only 4 of 15,000 Kickstarter units delivered. Team lacked technical competency per Kickstarter investigation.",
     "sources": [
       "https://www.kickstarter.com/projects/torquing/zano-autonomous-intelligent-swarming-nano-drone",
       "https://medium.com/kickstarter/how-zano-raised-millions-on-kickstarter-and-left-backers-with-nearly-nothing-85c0abe4a6cb"
@@ -219,7 +219,7 @@
     "funded_date": "2015-04-16",
     "last_update": "2017-02-22",
     "category": "Technology/3D Printing",
-    "failure_reason": "Unsustainable economics with cost of goods at 60% of sale price. Unibody design required unreliable custom components. Only ~4,000 units shipped before company entered 'hibernation mode' in February 2017.",
+    "failure_reason": "Unsustainable economics with cost of goods at 60% of sale price. Unibody design required unreliable custom components. Only ~4,000 units shipped before company entered 'hibernation mode' in February 2017.\n\nProduct Development Failure: Unibody delta design required precision manufacturing beyond team capability. Stepper motor and linear rail quality issues. Firmware bugs caused print failures. Struggled to calibrate at mass production volumes.",
     "sources": [
       "https://www.kickstarter.com/projects/tiko3d/tiko-the-unibody-3d-printer",
       "https://www.crowdfundinsider.com/2017/02/96583-went-wrong-creator-micro-3d-printer-provides-perspective-tiko-3d-failure/"
@@ -236,7 +236,7 @@
     "funded_date": "2015-05-12",
     "last_update": "2017-01-12",
     "category": "Technology/Drones",
-    "failure_reason": "NOT a Kickstarter/Indiegogo campaign - $34M in pre-orders through lily.camera website. Promotional video faked using GoPro on DJI drones. SF DA filed fraud lawsuit. Company shut down January 2017, filed Chapter 11 bankruptcy. Most backers never received refunds.",
+    "failure_reason": "NOT a Kickstarter/Indiegogo campaign - $34M in pre-orders through lily.camera website. Promotional video faked using GoPro on DJI drones. SF DA filed fraud lawsuit. Company shut down January 2017, filed Chapter 11 bankruptcy. Most backers never received refunds.\n\nProduct Development Failure: Camera hardware produced subpar footage (blurry, color off). 'Throw and go' auto-stabilization unreliable. Software lead rewrote all open-source flight code causing setbacks. Couldn't achieve camera quality at $499 price point. Demo video faked with DJI drone.",
     "sources": [
       "https://techcrunch.com/2017/01/11/unable-to-fund-production-of-its-camera-drone-lily-will-shut-down-and-refund-customers/",
       "https://en.wikipedia.org/wiki/Lily_Robotics",
@@ -254,7 +254,7 @@
     "funded_date": "2015-06-01",
     "last_update": "2017-04-15",
     "category": "Technology/Hardware",
-    "failure_reason": "Indiegogo campaign (page removed). Keychain gadget combining charger, locator, and remote raised $1.2M (30x goal) from 14,000 backers. Creator Doros Kyriakoulis announced April 2017 he was out of money and considering bankruptcy. No products delivered.",
+    "failure_reason": "Indiegogo campaign (page removed). Keychain gadget combining charger, locator, and remote raised $1.2M (30x goal) from 14,000 backers. Creator Doros Kyriakoulis announced April 2017 he was out of money and considering bankruptcy. No products delivered.\n\nProduct Development Failure: WiFi stretch goal feature didn't work - couldn't integrate WiFi into form factor. Technical difficulties they couldn't resolve. Design broken, needed reconfiguration mid-project. Connector obsolete (old Apple/micro-USB) by delivery date. No in-house engineering capability to manage Chinese ODM.",
     "sources": [
       "https://www.indiegogo.com/projects/gokey-battery-memory-remote-all-on-your-keyring",
       "https://www.crowdfundinsider.com/2017/04/98735-crowdfunding-failure-gokey-creator-looks-bankruptcy-raising-1-2-million-indiegogo/"
@@ -271,7 +271,7 @@
     "funded_date": "2015-07-10",
     "last_update": "2016-12-01",
     "category": "Technology/Hardware",
-    "failure_reason": "Marketed as '3D holographic display' but was just a 19th century Pepper's Ghost trick - LCD reflected on glass pyramid. Used misleading CGI in promotional video. H+ Technology used fake accounts to boost campaign. Kickstarter declined to remove despite documented misrepresentation.",
+    "failure_reason": "Marketed as '3D holographic display' but was just a 19th century Pepper's Ghost trick - LCD reflected on glass pyramid. Used misleading CGI in promotional video. H+ Technology used fake accounts to boost campaign. Kickstarter declined to remove despite documented misrepresentation.\n\nProduct Development Failure: Marketed as '3D holographic display' but was just Pepper's Ghost - 19th century 2D reflection trick. CGI videos showed volumetric 3D impossible with actual technology. No depth, no parallax, can't display colors darker than background. Fundamentally misleading about physics of display.",
     "sources": [
       "https://www.kickstarter.com/projects/hplustech/holus-the-interactive-tabletop-holographic-display",
       "https://medium.com/@sableraph/how-to-sell-a-19th-century-parlor-trick-as-a-3d-holographic-display-c12a861cb8bf"
@@ -288,7 +288,7 @@
     "funded_date": "2015-08-14",
     "last_update": "2016-10-04",
     "category": "Technology/Hardware",
-    "failure_reason": "Creators disappeared without shipping products to backers while simultaneously selling units through retail channels. Connected to serial scam team (Nbition/Chiu brothers) behind Arist and Toasteroid. No backer received their reward.",
+    "failure_reason": "Creators disappeared without shipping products to backers while simultaneously selling units through retail channels. Connected to serial scam team (Nbition/Chiu brothers) behind Arist and Toasteroid. No backer received their reward.\n\nProduct Development Failure: Apple MFi certification issues - $4/unit Lightning licensing not accounted for at $9 price. Manufacturing difficulties with magnetic connector tolerances. Supplier/manufacturer problems led to years of delays. Patent infringement concerns with Apple magsafe.",
     "sources": [
       "https://www.kickstarter.com/projects/1041610927/znaps-the-9-magnetic-adapter-for-your-mobile-devic",
       "https://www.alphr.com/life-culture/1005211/kickstarter-success-znaps-is-ignoring-its-backers-and-selling-directly-to-the/"
@@ -305,7 +305,7 @@
     "funded_date": "2015-10-15",
     "last_update": "2022-03-29",
     "category": "Technology/Personal Care",
-    "failure_reason": "Originally raised $4M on Kickstarter before being suspended for lacking working prototype. Moved to Indiegogo, raised $500K+. Promised March 2016 delivery. As of December 2025, still no product. Last update March 2022. Founders sued each other in 2019. Indiegogo page shows \"awaiting update\" for years.",
+    "failure_reason": "Originally raised $4M on Kickstarter before being suspended for lacking working prototype. Moved to Indiegogo, raised $500K+. Promised March 2016 delivery. As of December 2025, still no product. Last update March 2022. Founders sued each other in 2019. Indiegogo page shows \"awaiting update\" for years.\n\nProduct Development Failure: Kickstarter suspended for no working prototype. Laser filament could only cut 1-2 hairs at a time. Filament fragile and prone to breaking. Desktop-sized circuit board couldn't fit in razor form factor. Prototype videos possibly faked with heated nichrome wire. Still not delivered 9+ years later.",
     "sources": [
       "https://web.archive.org/web/20220417015713/https://www.indiegogo.com/projects/the-skarp-laser-razor-21st-century-shaving-new-health",
       "https://en.wikipedia.org/wiki/Skarp_Technologies",
@@ -323,7 +323,7 @@
     "funded_date": "2015-11-19",
     "last_update": "2019-08-16",
     "category": "Technology/Wearables",
-    "failure_reason": "Modular smartwatch raised $1.6M in 2015. Lost manufacturing and software partners end of 2016. Only ~500 units shipped (under 10% of backers). Quality issues with shipped units: crashes, unreliable tracking. Spent $2.8M on R&D, ran out of funds. Company liquidated August 2019.",
+    "failure_reason": "Modular smartwatch raised $1.6M in 2015. Lost manufacturing and software partners end of 2016. Only ~500 units shipped (under 10% of backers). Quality issues with shipped units: crashes, unreliable tracking. Spent $2.8M on R&D, ran out of funds. Company liquidated August 2019.\n\nProduct Development Failure: Modular connector system couldn't maintain reliable electrical connections. Thermal management issues with stacked modules. Watch became too thick with multiple modules attached. Integration of disparate module firmware proved intractable.",
     "sources": [
       "https://www.kickstarter.com/projects/blocks/blocks-the-worlds-first-modular-smartwatch",
       "https://www.wareable.com/smartwatches/blosk-backers-have-their-say-7770"
@@ -340,7 +340,7 @@
     "funded_date": "2015-12-01",
     "last_update": "2017-08-26",
     "category": "Technology/Audio",
-    "failure_reason": "Indiegogo campaign (page removed/pending review). Truly wireless earbuds raised $1.5M. Manufacturer only planned to make ~24 units. Offered YouTuber $500 bribe for positive review - he exposed them instead, calling them \"trash\". Company shut down 4 days after devastating review went viral.",
+    "failure_reason": "Indiegogo campaign (page removed/pending review). Truly wireless earbuds raised $1.5M. Manufacturer only planned to make ~24 units. Offered YouTuber $500 bribe for positive review - he exposed them instead, calling them \"trash\". Company shut down 4 days after devastating review went viral.\n\nProduct Development Failure: Bluetooth audio sync between left/right earbuds failed consistently. Battery life far below claims due to sync overhead. Manufacturing yields too low for sustainable production. Shipped units had major connectivity issues.",
     "sources": [
       "https://fortune.com/2017/08/27/headphone-startup-kanoa-youtube-review/",
       "https://siliconangle.com/2017/08/27/crowdfunded-earbud-startup-kanoa-shuts-without-delivering-product-customers/"
@@ -357,7 +357,7 @@
     "funded_date": "2015-12-19",
     "last_update": "2019-08-13",
     "category": "Technology/Phones",
-    "failure_reason": "Indiegogo campaign. 3-in-1 phone/tablet/laptop raised $1.3M across two campaigns. Creator Jeffrey Batio ran a decade-long fraud. FBI investigation led to conviction on 12 counts. Sentenced to 8 years prison, ordered to pay $5.77M restitution.",
+    "failure_reason": "Indiegogo campaign. 3-in-1 phone/tablet/laptop raised $1.3M across two campaigns. Creator Jeffrey Batio ran a decade-long fraud. FBI investigation led to conviction on 12 counts. Sentenced to 8 years prison, ordered to pay $5.77M restitution.\n\nProduct Development Failure: Sliding/folding mechanism couldn't survive durability testing. Dual-screen hinge mechanism failed at scale. Component integration for phone+tablet hybrid proved too complex. Display connector reliability issues.",
     "sources": [
       "https://www.indiegogo.com/projects/the-dragonfly-futurefon--3",
       "https://www.justice.gov/usao-ndil/pr/silicon-valley-computer-executive-convicted-defrauding-investors-after-soliciting-money"
@@ -374,7 +374,7 @@
     "funded_date": "2016-02-12",
     "last_update": "2016-09-01",
     "category": "Fashion/Footwear",
-    "failure_reason": "Raised $254K on Indiegogo (1,270% of goal) for \"gravity-defying\" shoes using N45 magnets to simulate moonwalk feeling. Promised August 2016 delivery. Posted September 2016 update citing manufacturing issues, promised April 2017. Then went completely silent. MoonShine Crea disappeared. No products delivered, no refunds.",
+    "failure_reason": "Raised $254K on Indiegogo (1,270% of goal) for \"gravity-defying\" shoes using N45 magnets to simulate moonwalk feeling. Promised August 2016 delivery. Posted September 2016 update citing manufacturing issues, promised April 2017. Then went completely silent. MoonShine Crea disappeared. No products delivered, no refunds.\n\nProduct Development Failure: Magnetic repulsion force insufficient for meaningful 'low gravity' sensation. N45 neodymium magnets in claimed configuration can't produce forces proportional to body weight. V2 stretch goal promised e-ink screen powered by electromagnetic field - physically impossible. Manufacturing partner issues cited. Never delivered to backers.",
     "sources": [
       "https://www.indiegogo.com/projects/20-16-moonwalker-the-shoes-that-defy-gravity",
       "https://www.ibtimes.co.uk/indiegogo-users-cry-foul-scam-campaign-that-disappeared-250000-1593260"
@@ -391,7 +391,7 @@
     "funded_date": "2016-03-21",
     "last_update": "2018-05-19",
     "category": "Technology/Sound",
-    "failure_reason": "Ran out of money after failing to secure Series A funding. Only 250 of 10,000+ units delivered before company shut down in May 2018. Filed Chapter 7 bankruptcy. VR market slowdown made investors unwilling to fund production.",
+    "failure_reason": "Ran out of money after failing to secure Series A funding. Only 250 of 10,000+ units delivered before company shut down in May 2018. Filed Chapter 7 bankruptcy. VR market slowdown made investors unwilling to fund production.\n\nProduct Development Failure: 8 drivers + 6 mics + 32-core processor made unit too expensive to manufacture. Five design iterations burned through capital. Stretch goals (iOS Lightning certification) overwhelmed R&D. Final design 'much more expensive than original concept.' Failed at manufacturing ramp.",
     "sources": [
       "https://www.kickstarter.com/projects/248983394/ossic-x-the-first-3d-audio-headphones-calibrated-t",
       "https://www.washingtonpost.com/news/the-switch/wp/2018/05/22/10200-people-gave-this-kickstarter-startup-for-3d-headphones-nearly-3-million-they-have-nothing-to-show-for-it/",
@@ -409,7 +409,7 @@
     "funded_date": "2016-04-01",
     "last_update": "2016-05-01",
     "category": "Sports/Diving",
-    "failure_reason": "Indiegogo campaign (page removed after refunds). Claimed to extract oxygen from water for 45-minute underwater breathing - physically impossible according to UC Berkeley chemistry professors. After backlash, changed story to \"liquid oxygen cylinders\" (also dangerous). Forced to refund $900K to backers.",
+    "failure_reason": "Indiegogo campaign (page removed after refunds). Claimed to extract oxygen from water for 45-minute underwater breathing - physically impossible according to UC Berkeley chemistry professors. After backlash, changed story to \"liquid oxygen cylinders\" (also dangerous). Forced to refund $900K to backers.\n\nProduct Development Failure: Claimed microporous hollow fiber could extract breathable oxygen from water. Scientists calculated device would need to filter 90 liters/minute - physically impossible at claimed size. Forced to refund $900K and pivot to 'liquid oxygen cylinders' after debunking.",
     "sources": [
       "https://web.archive.org/web/20160323032014/https://www.indiegogo.com/projects/triton-world-s-first-artificial-gills-re-breather#/",
       "https://www.deeperblue.com/artificial-gills-scam-product-triton-comes-clean-refunds-supporters/",
@@ -427,7 +427,7 @@
     "funded_date": "2016-04-15",
     "last_update": "2018-01-01",
     "category": "Technology/Outdoors",
-    "failure_reason": "Indiegogo campaign (page likely removed). Claimed to capture moisture from air using solar power. EEVBlog debunked with basic thermodynamics - solar panel was 2.5x too weak. At best would produce 1 liter in 60+ hours. Never shipped anything resembling advertised product.",
+    "failure_reason": "Indiegogo campaign (page likely removed). Claimed to capture moisture from air using solar power. EEVBlog debunked with basic thermodynamics - solar panel was 2.5x too weak. At best would produce 1 liter in 60+ hours. Never shipped anything resembling advertised product.\n\nProduct Development Failure: Claimed Peltier cooler could harvest 0.5L water/hour from humid air. Thermodynamically impossible - atmospheric water harvesting at that rate requires refrigeration unit, not small battery-powered device. Never demonstrated working prototype at scale.",
     "sources": [
       "https://www.indiegogo.com/projects/fontus-the-self-filling-water-bottles",
       "https://www.eevblog.com/2016/05/18/eevblog-881-fontus-self-filling-water-bottle-busted/"
@@ -444,7 +444,7 @@
     "funded_date": "2016-04-20",
     "last_update": "2021-07-16",
     "category": "Technology/3D Printing",
-    "failure_reason": "Called \"biggest 3D printing scam\" - raised $2.3M for smartphone-powered resin 3D printer. Name changed from OLO to ONO. Only ~9 backers received printers by Aug 2018 despite 16,180 orders. Company declared failure July 2021 citing financial/legal reasons, opened to open-source but never released files.",
+    "failure_reason": "Called \"biggest 3D printing scam\" - raised $2.3M for smartphone-powered resin 3D printer. Name changed from OLO to ONO. Only ~9 backers received printers by Aug 2018 despite 16,180 orders. Company declared failure July 2021 citing financial/legal reasons, opened to open-source but never released files.\n\nProduct Development Failure: Claimed smartphone screen could cure resin - UV from phone screens insufficient for reliable curing. Required separate UV LED array. Print quality and reliability far below claims. Resolution and speed promises unachievable.",
     "sources": [
       "https://www.kickstarter.com/projects/olo3d/olo-the-first-ever-smartphone-3d-printer",
       "https://all3dp.com/ono-smartphone-3d-printer/"
@@ -461,7 +461,7 @@
     "funded_date": "2016-05-19",
     "last_update": "2018-08-29",
     "category": "Design/Product Design",
-    "failure_reason": "FTC confirmed fraud - creator Doug Monahan spent $800K+ from multiple campaigns on personal expenses and Bitcoin instead of production. Permanently banned from crowdfunding in 2019. No products delivered.",
+    "failure_reason": "FTC confirmed fraud - creator Doug Monahan spent $800K+ from multiple campaigns on personal expenses and Bitcoin instead of production. Permanently banned from crowdfunding in 2019. No products delivered.\n\nProduct Development Failure: Claimed battery/charger issues, but specific battery technology (18650 cells) had no known problems. More likely couldn't integrate hotspot, charging, GPS tracking in backpack form factor at price point. Never demonstrated working unit.",
     "sources": [
       "https://www.kickstarter.com/projects/ibackpack/ibackpack-20-3g-4g-mi-fi-bulletproof-bluetooth-aud",
       "https://www.ftc.gov/news-events/news/press-releases/2020/05/operator-deceptive-crowdfunding-scheme-banned-future-crowdfunding-part-ftc-settlement"
@@ -495,7 +495,7 @@
     "funded_date": "2016-08-20",
     "last_update": "2019-04-30",
     "category": "Technology/Hardware",
-    "failure_reason": "Ran out of money after shipping only 75% of orders. Component price increases, manufacturer problems, and alleged theft of $300K inventory by distributor King Oasis depleted funds. No refunds offered.",
+    "failure_reason": "Ran out of money after shipping only 75% of orders. Component price increases, manufacturer problems, and alleged theft of $300K inventory by distributor King Oasis depleted funds. No refunds offered.\n\nProduct Development Failure: Laptop dock for smartphone struggled with display driver integration. Latency issues between phone and display. Battery and power delivery problems. Firmware couldn't reliably handle phone-to-laptop OS bridging.",
     "sources": [
       "https://www.kickstarter.com/projects/andromium/the-superbook-turn-your-smartphone-into-a-laptop-f",
       "https://www.androidpolice.com/2019/04/30/superbook-kickstarter-runs-out-of-money-after-shipping-75-of-phone-to-laptop-pre-orders/"
@@ -512,7 +512,7 @@
     "funded_date": "2016-09-23",
     "last_update": "2017-10-31",
     "category": "Technology/Hardware",
-    "failure_reason": "Connected to serial scam team (Nbition/Chiu brothers) behind Arist, ZNAPS, and Auxillite. None of these projects delivered products. Sketchfab profile linked to Nbition. No toasters shipped to backers despite reaching funding goal.",
+    "failure_reason": "Connected to serial scam team (Nbition/Chiu brothers) behind Arist, ZNAPS, and Auxillite. None of these projects delivered products. Sketchfab profile linked to Nbition. No toasters shipped to backers despite reaching funding goal.\n\nProduct Development Failure: Heating element design couldn't consistently burn images into toast. App connectivity unreliable. Thermal management for precise image burning proved difficult at consumer price point.",
     "sources": [
       "https://www.kickstarter.com/projects/258723592/toasteroid-first-app-controlled-smart-image-toaste",
       "https://dandesim.one/2017/03/15/nbition-kickstarter-scam-znaps"
@@ -529,7 +529,7 @@
     "funded_date": "2016-09-29",
     "last_update": "2018-01-12",
     "category": "Food/Kitchen",
-    "failure_reason": "Company shut down after relationship with production facility broke down and exhausted funding. Third CEO in one year announced closure. Despite original Sansaire's $823K success, Delta backers received nothing.",
+    "failure_reason": "Company shut down after relationship with production facility broke down and exhausted funding. Third CEO in one year announced closure. Despite original Sansaire's $823K success, Delta backers received nothing.\n\nProduct Development Failure: Compact heating element couldn't maintain precise temperature control. Plastic housing warped under sustained heat. Circulation pump failed reliability testing. Transitioned from clamp-on to standalone design mid-production.",
     "sources": [
       "https://www.kickstarter.com/projects/681827929/sansaire-delta-make-perfect-cooking-even-easier",
       "https://thespoon.tech/sansaire-announces-it-is-shutting-down/"
@@ -546,7 +546,7 @@
     "funded_date": "2017-07-05",
     "last_update": "2019-02-20",
     "category": "Technology/Wearables",
-    "failure_reason": "Auto-tightening, heating smart sneaker promised at $199 (60% off $599 retail). After 2 years of delays, company offered full refunds in February 2019 via email. No products delivered to Kickstarter backers despite 229% funding.",
+    "failure_reason": "Auto-tightening, heating smart sneaker promised at $199 (60% off $599 retail). After 2 years of delays, company offered full refunds in February 2019 via email. No products delivered to Kickstarter backers despite 229% funding.\n\nProduct Development Failure: Heating, fitness tracking, auto-lacing mechanisms couldn't coexist in shoe form factor. Battery insufficient for heating function. Water resistance compromised by electronics integration. Durability issues with flexible electronics in footwear.",
     "sources": [
       "https://www.kickstarter.com/projects/141658446/digitsole-smartshoe-the-worlds-first-intelligent-s",
       "https://www.backerkit.com/projects/141658446/digitsole-smartshoe-the-worlds-first-intelligent-s",
@@ -564,7 +564,7 @@
     "funded_date": "2017-08-20",
     "last_update": "2019-06-05",
     "category": "Design/Product Design",
-    "failure_reason": "Unable to find manufacturers who could produce at viable price. Shipped ~4,000 defective units before filing bankruptcy on June 5, 2019 with 4.5M EUR debt against 524K EUR assets.",
+    "failure_reason": "Unable to find manufacturers who could produce at viable price. Shipped ~4,000 defective units before filing bankruptcy on June 5, 2019 with 4.5M EUR debt against 524K EUR assets.\n\nProduct Development Failure: Silicone mouthpiece bristle attachment failed durability. Motor vibration pattern couldn't clean teeth effectively. Units shipped with insufficient power. Mouthpiece sizing didn't fit wide range of mouths as claimed.",
     "sources": [
       "https://www.kickstarter.com/projects/amabrush/amabrush-worlds-first-automatic-toothbrush",
       "https://www.failory.com/blog/kickstarter-fails"
@@ -581,7 +581,7 @@
     "funded_date": "2017-09-15",
     "last_update": "2019-01-01",
     "category": "Design/Product Design",
-    "failure_reason": "Smart bike with integrated sensors and power meter. Despite raising over $636K, bikes were never delivered to backers. SpeedX appears to have abandoned the project entirely. Frequently cited as cautionary example in cycling crowdfunding failures.",
+    "failure_reason": "Smart bike with integrated sensors and power meter. Despite raising over $636K, bikes were never delivered to backers. SpeedX appears to have abandoned the project entirely. Frequently cited as cautionary example in cycling crowdfunding failures.\n\nProduct Development Failure: Integrated electronics (GPS, power meter) added complexity beyond traditional bike manufacturing. App connectivity issues plagued shipped units. Component costs exceeded crowdfunding price point. Struggled with bike+tech integration.",
     "sources": [
       "https://www.kickstarter.com/projects/speedx/speedx-unicorn-smart-road-bike-with-built-in-power/comments",
       "https://www.bikeradar.com/news/speedx-smart-bike"
@@ -598,7 +598,7 @@
     "funded_date": "2017-11-02",
     "last_update": "2023-06-05",
     "category": "Food/Kitchen",
-    "failure_reason": "Marketed as 'Keurig for yogurt' but failed to find manufacturer who could produce at viable price. Despite raising $930K+ across platforms, cooling system couldn't reach target temperatures. Officially announced failure in June 2023 - no acquisition, no products shipped to US backers.",
+    "failure_reason": "Marketed as 'Keurig for yogurt' but failed to find manufacturer who could produce at viable price. Despite raising $930K+ across platforms, cooling system couldn't reach target temperatures. Officially announced failure in June 2023 - no acquisition, no products shipped to US backers.\n\nProduct Development Failure: Temperature control for yogurt cultivation inconsistent. Pod/capsule system unreliable. Cleaning and food safety issues with design. Manufacturing costs exceeded price point.",
     "sources": [
       "https://www.kickstarter.com/projects/leckerlabs/yomee",
       "https://thespoon.tech/lecker-labs-raised-400000-pushed-yomee-yogurt-maker-to-2019/"
@@ -615,7 +615,7 @@
     "funded_date": "2017-12-01",
     "last_update": "2020-02-14",
     "category": "Food/Kitchen",
-    "failure_reason": "Company entered receivership February 2020 after losing $500K/month with $15.2M debt. All assets liquidated. Machines dependent on cloud servers became non-functional (Error #7). Recipe PicoPaks discontinued.",
+    "failure_reason": "Company entered receivership February 2020 after losing $500K/month with $15.2M debt. All assets liquidated. Machines dependent on cloud servers became non-functional (Error #7). Recipe PicoPaks discontinued.\n\nProduct Development Failure: Brewing system complexity exceeded manufacturing capability at price point. Keg and ingredient pod system logistics problematic. Quality control issues in production. Company filed bankruptcy - couldn't sustain production costs.",
     "sources": [
       "https://www.kickstarter.com/projects/picobrew/pico-c-craft-brewing-for-all",
       "https://www.americancraftbeer.com/113312-2/"
@@ -632,7 +632,7 @@
     "funded_date": "2019-03-01",
     "last_update": "2021-09-01",
     "category": "Technology/Drones",
-    "failure_reason": "Raised $1.5M for \"production ready\" palm-sized drone. Promised June 2019 delivery. Specs repeatedly downgraded (flight time cut 50%, weight increased). CEO Vernon Kerswell accused of using misleading demo footage. Under Indiegogo investigation for \"signs of default.\" No drones delivered to backers.",
+    "failure_reason": "Raised $1.5M for \"production ready\" palm-sized drone. Promised June 2019 delivery. Specs repeatedly downgraded (flight time cut 50%, weight increased). CEO Vernon Kerswell accused of using misleading demo footage. Under Indiegogo investigation for \"signs of default.\" No drones delivered to backers.\n\nProduct Development Failure: Autonomous flight features (obstacle avoidance, tracking) didn't function as demonstrated. Camera stabilization inadequate. Software/firmware couldn't deliver promised autonomous capabilities in small form factor.",
     "sources": [
       "https://www.indiegogo.com/en/projects/microdrone/micro-drone-3-0-flight-in-the-palm-of-your-hand/comments",
       "https://dronexl.co/2021/09/20/micro-drone-4-0/"
@@ -666,7 +666,7 @@
     "funded_date": "2020-10-20",
     "last_update": "2023-07-26",
     "category": "Design/Product Design",
-    "failure_reason": "Indiegogo campaign for \"world's first 3D-printed custom unibody carbon fiber bike\". Promised 1.3kg frame delivered 3.145kg; promised 7.5kg total delivered 11.67kg+. Carbon wheels never produced. Arevo terminated Vietnam operations 2023. Many backers never received bikes; those who did reported poor quality, wrong components, safety issues. Demanded $350-$850 additional shipping after 2+ year delays.",
+    "failure_reason": "Indiegogo campaign for \"world's first 3D-printed custom unibody carbon fiber bike\". Promised 1.3kg frame delivered 3.145kg; promised 7.5kg total delivered 11.67kg+. Carbon wheels never produced. Arevo terminated Vietnam operations 2023. Many backers never received bikes; those who did reported poor quality, wrong components, safety issues. Demanded $350-$850 additional shipping after 2+ year delays.\n\nProduct Development Failure: Promised 7.5kg frame weight, delivered 11kg+. Wrong brake rotors shipped (160mm vs 180mm specified). Vietnam manufacturing halted due to 'inability to produce carbon materials at competitive cost.' 3D printing production couldn't scale to demand.",
     "sources": [
       "https://www.indiegogo.com/projects/superstrata-bike",
       "https://www.bikeradar.com/reviews/bikes/road-bikes/superstrata-classic-review"
@@ -683,7 +683,7 @@
     "funded_date": "2023-02-19",
     "last_update": "2024-03-05",
     "category": "Food/Kitchen",
-    "failure_reason": "One year after raising $302K (30x goal), website went offline. Creator posted on Facebook claiming to be broke. Unable to ship remaining units or issue refunds as money was spent shipping early orders.",
+    "failure_reason": "One year after raising $302K (30x goal), website went offline. Creator posted on Facebook claiming to be broke. Unable to ship remaining units or issue refunds as money was spent shipping early orders.\n\nProduct Development Failure: Pellet stove thermoelectric generation couldn't deliver claimed power output. Heat management issues. Safety certifications (UL) problematic. Integration of heating and electricity generation at consumer price point failed.",
     "sources": [
       "https://www.kickstarter.com/projects/qubestove/qstoves-electriq12-the-versaitlle-12-electric-pizza-oven",
       "https://palapizza.com/guide/qstove-electriq-pizza-oven/"
