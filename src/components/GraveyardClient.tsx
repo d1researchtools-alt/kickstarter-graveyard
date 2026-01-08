@@ -184,19 +184,19 @@ export default function GraveyardClient() {
       {/* Stats */}
       <div className="flex justify-center gap-4 sm:gap-8 py-8 px-5 flex-wrap bg-white border-b border-slate-200">
         <div className="text-center px-6 sm:px-10 py-5 bg-gradient-to-br from-slate-50 to-slate-100 rounded-2xl border border-slate-200">
-          <div className="text-3xl sm:text-4xl font-bold bg-gradient-to-r from-orange-600 to-orange-500 bg-clip-text text-transparent">
+          <div className="text-3xl sm:text-4xl font-bold text-orange-500">
             {stats.totalProjects}
           </div>
           <div className="text-slate-500 mt-1 text-xs uppercase tracking-wider font-medium">Failed Projects</div>
         </div>
         <div className="text-center px-6 sm:px-10 py-5 bg-gradient-to-br from-slate-50 to-slate-100 rounded-2xl border border-slate-200">
-          <div className="text-3xl sm:text-4xl font-bold bg-gradient-to-r from-orange-600 to-orange-500 bg-clip-text text-transparent">
+          <div className="text-3xl sm:text-4xl font-bold text-orange-500">
             ${formatNumber(stats.totalLost)}
           </div>
           <div className="text-slate-500 mt-1 text-xs uppercase tracking-wider font-medium">Total Lost</div>
         </div>
         <div className="text-center px-6 sm:px-10 py-5 bg-gradient-to-br from-slate-50 to-slate-100 rounded-2xl border border-slate-200">
-          <div className="text-3xl sm:text-4xl font-bold bg-gradient-to-r from-orange-600 to-orange-500 bg-clip-text text-transparent">
+          <div className="text-3xl sm:text-4xl font-bold text-orange-500">
             {formatNumber(stats.totalBackers)}
           </div>
           <div className="text-slate-500 mt-1 text-xs uppercase tracking-wider font-medium">Backers Affected</div>
@@ -240,7 +240,7 @@ export default function GraveyardClient() {
           onClick={() => handleSort('amount')}
           className={`px-5 py-3 text-sm font-medium border rounded-xl transition-all ${
             currentSort === 'amount'
-              ? 'bg-gradient-to-r from-orange-600 to-orange-500 border-transparent text-white'
+              ? 'bg-orange-500 border-transparent text-white'
               : 'border-slate-200 bg-slate-50 text-slate-500 hover:bg-slate-100 hover:border-slate-300'
           }`}
         >
@@ -250,7 +250,7 @@ export default function GraveyardClient() {
           onClick={() => handleSort('date')}
           className={`px-5 py-3 text-sm font-medium border rounded-xl transition-all ${
             currentSort === 'date'
-              ? 'bg-gradient-to-r from-orange-600 to-orange-500 border-transparent text-white'
+              ? 'bg-orange-500 border-transparent text-white'
               : 'border-slate-200 bg-slate-50 text-slate-500 hover:bg-slate-100 hover:border-slate-300'
           }`}
         >
@@ -260,7 +260,7 @@ export default function GraveyardClient() {
           onClick={() => handleSort('backers')}
           className={`px-5 py-3 text-sm font-medium border rounded-xl transition-all ${
             currentSort === 'backers'
-              ? 'bg-gradient-to-r from-orange-600 to-orange-500 border-transparent text-white'
+              ? 'bg-orange-500 border-transparent text-white'
               : 'border-slate-200 bg-slate-50 text-slate-500 hover:bg-slate-100 hover:border-slate-300'
           }`}
         >
@@ -292,7 +292,7 @@ export default function GraveyardClient() {
                         {project.name}
                       </a>
                     </h2>
-                    <span className="ml-3 px-3 py-1 text-xs font-medium bg-gradient-to-r from-orange-500/10 to-orange-400/10 text-orange-600 rounded-full whitespace-nowrap">
+                    <span className="ml-3 px-3 py-1 text-xs font-medium bg-orange-500/10 text-orange-600 rounded-full whitespace-nowrap">
                       {project.category.split('/').pop()}
                     </span>
                   </div>
