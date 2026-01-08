@@ -62,6 +62,27 @@ function getSourceName(url: string): string {
   }
 }
 
+function formatFailureReason(text: string): React.ReactNode {
+  const marker = 'Product Development Failure Reason:';
+  const index = text.indexOf(marker);
+
+  if (index === -1) {
+    return text;
+  }
+
+  const mainReason = text.substring(0, index).trim();
+  const pdReason = text.substring(index + marker.length).trim();
+
+  return (
+    <>
+      {mainReason}
+      {mainReason && <><br /><br /></>}
+      <strong>Product Development Failure Reason:</strong>
+      {pdReason && <> {pdReason}</>}
+    </>
+  );
+}
+
 function getTagClass(tag: string): string {
   const tagKey = tag.toLowerCase().replace(/[^a-z]/g, '');
   const tagClasses: Record<string, string> = {
@@ -332,7 +353,7 @@ export default function GraveyardClient() {
                   </div>
 
                   {/* Failure Reason */}
-                  <p className="text-sm leading-relaxed text-slate-600">{project.failure_reason}</p>
+                  <p className="text-sm leading-relaxed text-slate-600">{formatFailureReason(project.failure_reason)}</p>
 
                   {/* Sources */}
                   <div className="mt-4 pt-4 border-t border-slate-200 flex flex-wrap gap-2">
