@@ -86,17 +86,20 @@ function formatFailureReason(text: string): React.ReactNode {
 function getTagClass(tag: string): string {
   const tagKey = tag.toLowerCase().replace(/[^a-z]/g, '');
   const tagClasses: Record<string, string> = {
-    fraudscam: 'bg-red-50 text-red-600 border border-red-200',
-    manufacturingissues: 'bg-orange-50 text-orange-600 border border-orange-200',
-    technicallyimpossible: 'bg-purple-50 text-purple-600 border border-purple-200',
-    ranoutofmoney: 'bg-yellow-50 text-yellow-600 border border-yellow-200',
-    companyshutdown: 'bg-slate-100 text-slate-500 border border-slate-200',
-    neverdelivered: 'bg-red-50 text-red-700 border border-red-200',
-    partialdelivery: 'bg-amber-50 text-amber-600 border border-amber-200',
-    shippingproblems: 'bg-blue-50 text-blue-600 border border-blue-200',
-    poorquality: 'bg-fuchsia-50 text-fuchsia-600 border border-fuchsia-200',
-    overpromised: 'bg-cyan-50 text-cyan-600 border border-cyan-200',
-    projectfailed: 'bg-slate-100 text-slate-600 border border-slate-300',
+    // Technical/Engineering Issues
+    systemintegration: 'bg-blue-50 text-blue-700 border border-blue-200',
+    manufacturability: 'bg-orange-50 text-orange-700 border border-orange-200',
+    noprototype: 'bg-red-50 text-red-700 border border-red-200',
+    physicsimpossible: 'bg-purple-50 text-purple-700 border border-purple-200',
+    heatmanagement: 'bg-amber-50 text-amber-700 border border-amber-200',
+    powersystem: 'bg-yellow-50 text-yellow-700 border border-yellow-200',
+    qualitycontrol: 'bg-fuchsia-50 text-fuchsia-700 border border-fuchsia-200',
+    // Business/Operations Issues
+    supplychain: 'bg-teal-50 text-teal-700 border border-teal-200',
+    scaleup: 'bg-indigo-50 text-indigo-700 border border-indigo-200',
+    uniteconomics: 'bg-emerald-50 text-emerald-700 border border-emerald-200',
+    regulatory: 'bg-rose-50 text-rose-700 border border-rose-200',
+    businessfailure: 'bg-slate-100 text-slate-600 border border-slate-300',
   };
   return tagClasses[tagKey] || 'bg-gray-100 text-gray-600 border border-gray-200';
 }

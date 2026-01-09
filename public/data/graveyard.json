@@ -15,7 +15,7 @@
       "https://www.geekwire.com/2013/kickstarters-biggest-flops-dead/",
       "https://www.networkworld.com/article/748656/software-when-crowdfunding-goes-bad-the-story-of-zioneyez.html"
     ],
-    "tags": ["Fraud/Scam", "Never Delivered", "Company Shutdown"]
+    "tags": ["No Prototype", "System Integration"]
   },
   {
     "name": "CST-01 Thinnest Watch",
@@ -33,7 +33,7 @@
       "https://www.slashgear.com/cst-01-kickstarter-thinnest-watch-maker-goes-bankrupt-02438668/",
       "https://www.pcworld.com/article/417926/cst-01-kickstarter-thin-watch.html"
     ],
-    "tags": ["Manufacturing Issues", "Ran Out of Money", "Company Shutdown", "Partial Delivery"]
+    "tags": ["Manufacturability", "Supply Chain", "Scale Up"]
   },
   {
     "name": "AGENT Smartwatch",
@@ -51,7 +51,7 @@
       "https://www.wareable.com/smartwatches/meet-the-kickstarter-crusader-martin-calsyn",
       "https://techcrunch.com/2013/06/16/backed-or-whacked-driving-an-agent-of-smartwatch-change/"
     ],
-    "tags": ["Manufacturing Issues", "Never Delivered", "Company Shutdown"]
+    "tags": ["Manufacturability", "System Integration"]
   },
   {
     "name": "Pirate3D Buccaneer",
@@ -69,7 +69,7 @@
       "https://techcrunch.com/2015/10/14/a-1-5m-kickstarter-project-fails-leaving-most-backers-without-their-3d-printer/",
       "https://3dprint.com/100792/pirate3d-buccaneer-sinks/"
     ],
-    "tags": ["Manufacturing Issues", "Ran Out of Money", "Partial Delivery", "Poor Quality"]
+    "tags": ["Unit Economics", "Scale Up"]
   },
   {
     "name": "Kreyos Meteor Smartwatch",
@@ -86,7 +86,7 @@
       "https://www.indiegogo.com/projects/kreyos-the-only-smartwatch-with-voice-gesture-control",
       "https://en.wikipedia.org/wiki/Kreyos"
     ],
-    "tags": ["Hardware", "Wearables", "Smartwatch", "Defective"]
+    "tags": ["No Prototype", "System Integration", "Quality Control"]
   },
   {
     "name": "Peachy Printer",
@@ -104,7 +104,7 @@
       "https://www.vice.com/en/article/how-a-promising-kickstarter-campaign-devolved-into-embezzlement-allegations/",
       "https://3dprint.com/133842/peachy-printer-embezzlement/"
     ],
-    "tags": ["Fraud/Scam", "Ran Out of Money", "Never Delivered"]
+    "tags": ["Business Failure"]
   },
   {
     "name": "Smarty Ring",
@@ -121,7 +121,7 @@
       "https://www.indiegogo.com/en/projects/smartyring/smarty-ring--3/comments",
       "https://www.wareable.com/wearable-tech/worse-for-wear-the-worst-wearable-crowdfunding-campaigns-865"
     ],
-    "tags": ["Hardware", "Wearables", "Ring", "CGI Renders Only"]
+    "tags": ["Manufacturability", "Power System", "System Integration"]
   },
   {
     "name": "Coolest Cooler",
@@ -139,7 +139,7 @@
       "https://en.wikipedia.org/wiki/Coolest_Cooler",
       "https://www.geekwire.com/2019/coolest-cooler-one-popular-kickstarter-campaigns-ever-shutting/"
     ],
-    "tags": ["Manufacturing Issues", "Ran Out of Money", "Partial Delivery", "Shipping Problems"]
+    "tags": ["Manufacturability", "Unit Economics", "Supply Chain"]
   },
   {
     "name": "Skully AR-1 Helmet",
@@ -156,7 +156,7 @@
       "https://www.indiegogo.com/projects/skully-ar-1-the-world-s-smartest-motorcycle-helmet",
       "https://www.revzilla.com/common-tread/company-that-revived-gas-gas-tries-to-bring-back-skully-helmets"
     ],
-    "tags": ["Hardware", "AR", "Motorcycle", "Fraud", "Bankruptcy"]
+    "tags": ["Manufacturability", "Regulatory"]
   },
   {
     "name": "Ritot Projection Watch",
@@ -173,7 +173,7 @@
       "https://techcrunch.com/2014/09/30/the-impossible-projection-watch-hits-1-4-million-in-crowdfunding/",
       "https://www.youtube.com/watch?v=7OfiUrqdsVU&t=99s"
     ],
-    "tags": ["Hardware", "Wearables", "Scam", "Impossible Tech"]
+    "tags": ["Physics Impossible", "No Prototype"]
   },
   {
     "name": "ZANO Drone",
@@ -190,7 +190,7 @@
       "https://www.kickstarter.com/projects/torquing/zano-autonomous-intelligent-swarming-nano-drone",
       "https://medium.com/kickstarter/how-zano-raised-millions-on-kickstarter-and-left-backers-with-nearly-nothing-85c0abe4a6cb"
     ],
-    "tags": ["Fraud/Scam", "Ran Out of Money", "Partial Delivery", "Shipping Problems", "Overpromised"]
+    "tags": ["System Integration", "No Prototype"]
   },
   {
     "name": "Pebble Time",
@@ -207,7 +207,7 @@
       "https://www.kickstarter.com/projects/getpebble/pebble-time-awesome-smartwatch-no-compromises",
       "https://techcrunch.com/2016/12/07/pebble-confirms-its-shutting-down-devs-and-software-going-to-fitbit/"
     ],
-    "tags": ["Company Shutdown"]
+    "tags": ["Business Failure"]
   },
   {
     "name": "Tiko 3D Printer",
@@ -224,7 +224,7 @@
       "https://www.kickstarter.com/projects/tiko3d/tiko-the-unibody-3d-printer",
       "https://www.crowdfundinsider.com/2017/02/96583-went-wrong-creator-micro-3d-printer-provides-perspective-tiko-3d-failure/"
     ],
-    "tags": ["Manufacturing Issues", "Never Delivered", "Partial Delivery"]
+    "tags": ["Manufacturability", "System Integration", "Scale Up"]
   },
   {
     "name": "Lily Drone",
@@ -242,7 +242,7 @@
       "https://en.wikipedia.org/wiki/Lily_Robotics",
       "https://www.vox.com/2017/1/16/14274254/lily-drone-lawsuit-refunds"
     ],
-    "tags": ["Fraud/Scam", "Ran Out of Money", "Company Shutdown"]
+    "tags": ["System Integration", "No Prototype"]
   },
   {
     "name": "GOKey",
@@ -259,7 +259,7 @@
       "https://www.indiegogo.com/projects/gokey-battery-memory-remote-all-on-your-keyring",
       "https://www.crowdfundinsider.com/2017/04/98735-crowdfunding-failure-gokey-creator-looks-bankruptcy-raising-1-2-million-indiegogo/"
     ],
-    "tags": ["Ran Out of Money", "Never Delivered"]
+    "tags": ["System Integration"]
   },
   {
     "name": "Holus 3D Display",
@@ -276,7 +276,7 @@
       "https://www.kickstarter.com/projects/hplustech/holus-the-interactive-tabletop-holographic-display",
       "https://medium.com/@sableraph/how-to-sell-a-19th-century-parlor-trick-as-a-3d-holographic-display-c12a861cb8bf"
     ],
-    "tags": ["Fraud/Scam", "Overpromised", "Technically Impossible"]
+    "tags": ["Physics Impossible", "No Prototype"]
   },
   {
     "name": "ZNAPS",
@@ -293,7 +293,7 @@
       "https://www.kickstarter.com/projects/1041610927/znaps-the-9-magnetic-adapter-for-your-mobile-devic",
       "https://www.alphr.com/life-culture/1005211/kickstarter-success-znaps-is-ignoring-its-backers-and-selling-directly-to-the/"
     ],
-    "tags": ["Fraud/Scam", "Shipping Problems"]
+    "tags": ["Manufacturability", "Regulatory", "Supply Chain"]
   },
   {
     "name": "Skarp Laser Razor",
@@ -311,7 +311,7 @@
       "https://en.wikipedia.org/wiki/Skarp_Technologies",
       "https://www.theverge.com/2015/10/13/9518163/laser-razor-kickstarter-banned-indiegogo"
     ],
-    "tags": ["Never Delivered", "Technically Impossible"]
+    "tags": ["No Prototype", "Physics Impossible"]
   },
   {
     "name": "Blocks Modular Smartwatch",
@@ -328,7 +328,7 @@
       "https://www.kickstarter.com/projects/blocks/blocks-the-worlds-first-modular-smartwatch",
       "https://www.wareable.com/smartwatches/blosk-backers-have-their-say-7770"
     ],
-    "tags": ["Manufacturing Issues", "Ran Out of Money", "Company Shutdown", "Partial Delivery"]
+    "tags": ["System Integration", "Manufacturability"]
   },
   {
     "name": "Kanoa Wireless Earbuds",
@@ -345,7 +345,7 @@
       "https://fortune.com/2017/08/27/headphone-startup-kanoa-youtube-review/",
       "https://siliconangle.com/2017/08/27/crowdfunded-earbud-startup-kanoa-shuts-without-delivering-product-customers/"
     ],
-    "tags": ["Fraud/Scam", "Manufacturing Issues", "Company Shutdown", "Never Delivered", "Partial Delivery"]
+    "tags": ["System Integration", "Power System", "Scale Up"]
   },
   {
     "name": "Dragonfly Futurefon",
@@ -362,7 +362,7 @@
       "https://www.indiegogo.com/projects/the-dragonfly-futurefon--3",
       "https://www.justice.gov/usao-ndil/pr/silicon-valley-computer-executive-convicted-defrauding-investors-after-soliciting-money"
     ],
-    "tags": ["Fraud/Scam", "Technically Impossible"]
+    "tags": ["System Integration", "Manufacturability"]
   },
   {
     "name": "MoonWalker Shoes (20:16)",
@@ -379,7 +379,7 @@
       "https://www.indiegogo.com/projects/20-16-moonwalker-the-shoes-that-defy-gravity",
       "https://www.ibtimes.co.uk/indiegogo-users-cry-foul-scam-campaign-that-disappeared-250000-1593260"
     ],
-    "tags": ["Hardware", "Footwear", "Wearables", "Silent Exit"]
+    "tags": ["Manufacturability", "Physics Impossible"]
   },
   {
     "name": "OSSIC X",
@@ -397,7 +397,7 @@
       "https://www.washingtonpost.com/news/the-switch/wp/2018/05/22/10200-people-gave-this-kickstarter-startup-for-3d-headphones-nearly-3-million-they-have-nothing-to-show-for-it/",
       "https://www.npr.org/sections/thetwo-way/2018/05/21/613133398/crowdfunders-left-hanging-by-3d-headphone-startups-abrupt-closure"
     ],
-    "tags": ["Manufacturing Issues", "Ran Out of Money", "Company Shutdown", "Partial Delivery"]
+    "tags": ["Unit Economics", "System Integration", "Scale Up"]
   },
   {
     "name": "Triton Artificial Gills",
@@ -415,7 +415,7 @@
       "https://www.deeperblue.com/artificial-gills-scam-product-triton-comes-clean-refunds-supporters/",
       "https://www.southernfriedscience.com/ocean-anti-kickstarter-of-the-month-triton-gills-is-almost-certainly-a-scam/"
     ],
-    "tags": ["Technically Impossible"]
+    "tags": ["Physics Impossible"]
   },
   {
     "name": "Fontus Self-Filling Water Bottle",
@@ -432,7 +432,7 @@
       "https://www.indiegogo.com/projects/fontus-the-self-filling-water-bottles",
       "https://www.eevblog.com/2016/05/18/eevblog-881-fontus-self-filling-water-bottle-busted/"
     ],
-    "tags": ["Technically Impossible", "Never Delivered"]
+    "tags": ["Physics Impossible"]
   },
   {
     "name": "ONO/OLO 3D Printer",
@@ -449,7 +449,7 @@
       "https://www.kickstarter.com/projects/olo3d/olo-the-first-ever-smartphone-3d-printer",
       "https://all3dp.com/ono-smartphone-3d-printer/"
     ],
-    "tags": ["Fraud/Scam", "Manufacturing Issues", "Never Delivered", "Company Shutdown"]
+    "tags": ["Physics Impossible", "Manufacturability"]
   },
   {
     "name": "iBackPack",
@@ -466,7 +466,7 @@
       "https://www.kickstarter.com/projects/ibackpack/ibackpack-20-3g-4g-mi-fi-bulletproof-bluetooth-aud",
       "https://www.ftc.gov/news-events/news/press-releases/2020/05/operator-deceptive-crowdfunding-scheme-banned-future-crowdfunding-part-ftc-settlement"
     ],
-    "tags": ["Fraud/Scam", "Manufacturing Issues", "Never Delivered"]
+    "tags": ["Business Failure"]
   },
   {
     "name": "Backzips Backpack",
@@ -483,7 +483,7 @@
       "https://www.kickstarter.com/projects/106898073/hidden-zipper-waterproof-and-kevlar-reinforced-bac",
       "https://songoffall.medium.com/the-backzip-kickstarter-backpack-scam-was-but-a-step-in-a-career-of-scams-investigating-the-ac1cdb512429"
     ],
-    "tags": ["Fraud/Scam", "Never Delivered"]
+    "tags": ["Business Failure"]
   },
   {
     "name": "Superbook",
@@ -500,7 +500,7 @@
       "https://www.kickstarter.com/projects/andromium/the-superbook-turn-your-smartphone-into-a-laptop-f",
       "https://www.androidpolice.com/2019/04/30/superbook-kickstarter-runs-out-of-money-after-shipping-75-of-phone-to-laptop-pre-orders/"
     ],
-    "tags": ["Manufacturing Issues", "Ran Out of Money", "Never Delivered", "Shipping Problems"]
+    "tags": ["Manufacturability", "System Integration"]
   },
   {
     "name": "Toasteroid",
@@ -517,7 +517,7 @@
       "https://www.kickstarter.com/projects/258723592/toasteroid-first-app-controlled-smart-image-toaste",
       "https://dandesim.one/2017/03/15/nbition-kickstarter-scam-znaps"
     ],
-    "tags": ["Fraud/Scam"]
+    "tags": ["Manufacturability", "Heat Management"]
   },
   {
     "name": "Sansaire Delta",
@@ -534,7 +534,7 @@
       "https://www.kickstarter.com/projects/681827929/sansaire-delta-make-perfect-cooking-even-easier",
       "https://thespoon.tech/sansaire-announces-it-is-shutting-down/"
     ],
-    "tags": ["Manufacturing Issues", "Ran Out of Money", "Company Shutdown", "Never Delivered"]
+    "tags": ["Manufacturability", "Heat Management"]
   },
   {
     "name": "Digitsole Smartshoe",
@@ -552,7 +552,7 @@
       "https://www.backerkit.com/projects/141658446/digitsole-smartshoe-the-worlds-first-intelligent-s",
       "https://www.indiegogo.com/en/projects/malikissolah-16909734/digitsole-smartshoe-the-first-intelligent-sneaker/comments"
     ],
-    "tags": ["Never Delivered"]
+    "tags": ["Power System", "System Integration", "Manufacturability"]
   },
   {
     "name": "Amabrush",
@@ -569,7 +569,7 @@
       "https://www.kickstarter.com/projects/amabrush/amabrush-worlds-first-automatic-toothbrush",
       "https://www.failory.com/blog/kickstarter-fails"
     ],
-    "tags": ["Manufacturing Issues", "Ran Out of Money", "Poor Quality"]
+    "tags": ["Manufacturability", "System Integration", "Quality Control"]
   },
   {
     "name": "SpeedX Unicorn",
@@ -586,7 +586,7 @@
       "https://www.kickstarter.com/projects/speedx/speedx-unicorn-smart-road-bike-with-built-in-power/comments",
       "https://www.bikeradar.com/news/speedx-smart-bike"
     ],
-    "tags": ["Never Delivered", "Company Shutdown"]
+    "tags": ["System Integration", "Unit Economics"]
   },
   {
     "name": "Yomee Yogurt Maker",
@@ -603,7 +603,7 @@
       "https://www.kickstarter.com/projects/leckerlabs/yomee",
       "https://thespoon.tech/lecker-labs-raised-400000-pushed-yomee-yogurt-maker-to-2019/"
     ],
-    "tags": ["Manufacturing Issues", "Company Shutdown"]
+    "tags": ["Manufacturability", "Heat Management"]
   },
   {
     "name": "PicoBrew Pico C",
@@ -620,7 +620,7 @@
       "https://www.kickstarter.com/projects/picobrew/pico-c-craft-brewing-for-all",
       "https://www.americancraftbeer.com/113312-2/"
     ],
-    "tags": ["Ran Out of Money"]
+    "tags": ["Manufacturability", "Scale Up", "Unit Economics"]
   },
   {
     "name": "Micro Drone 4.0",
@@ -637,7 +637,7 @@
       "https://www.indiegogo.com/en/projects/microdrone/micro-drone-3-0-flight-in-the-palm-of-your-hand/comments",
       "https://dronexl.co/2021/09/20/micro-drone-4-0/"
     ],
-    "tags": ["Hardware", "Drone", "Fraud Investigation", "Never Delivered"]
+    "tags": ["System Integration"]
   },
   {
     "name": "HEL: The Last Saga",
@@ -654,7 +654,7 @@
       "https://www.kickstarter.com/projects/1162110258/hel-the-last-saga",
       "https://boardgamewire.com/index.php/2024/01/27/mythic-games-fails-to-deliver-on-two-kickstarter-projects-worth-3-2m-sells-ip-to-cmon/"
     ],
-    "tags": ["Ran Out of Money", "Company Shutdown", "Never Delivered"]
+    "tags": []
   },
   {
     "name": "Superstrata Bike",
@@ -671,7 +671,7 @@
       "https://www.indiegogo.com/projects/superstrata-bike",
       "https://www.bikeradar.com/reviews/bikes/road-bikes/superstrata-classic-review"
     ],
-    "tags": ["Manufacturing Issues", "Overpromised", "Poor Quality", "Partial Delivery", "Shipping Problems"]
+    "tags": ["Scale Up", "Quality Control", "Unit Economics"]
   },
   {
     "name": "QStoves ElectriQ",
@@ -688,7 +688,7 @@
       "https://www.kickstarter.com/projects/qubestove/qstoves-electriq12-the-versaitlle-12-electric-pizza-oven",
       "https://palapizza.com/guide/qstove-electriq-pizza-oven/"
     ],
-    "tags": ["Shipping Problems"]
+    "tags": ["Manufacturability", "Heat Management", "Regulatory"]
   },
   {
     "name": "SwitchLens",
@@ -705,6 +705,6 @@
       "https://www.kickstarter.com/projects/halohub/switchlens-power-up-your-smartphone-into-a-pro-camera",
       "https://www.bbb.org/us/ny/brooklyn/profile/crowdfunding/kickstarter-pbc-0121-137092/complaints"
     ],
-    "tags": ["Fraud/Scam", "Never Delivered"]
+    "tags": ["Business Failure"]
   }
 ]
