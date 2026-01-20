@@ -303,6 +303,15 @@ export default function GraveyardClient() {
                 key={project.name}
                 className="bg-white rounded-2xl overflow-hidden border border-slate-200 transition-colors hover:border-orange-500"
               >
+                {/* Product Image */}
+                <div className="h-48 overflow-hidden bg-slate-100">
+                  <img
+                    src={project.image_url}
+                    alt={project.name}
+                    className={`w-full h-full ${project.image_position === 'contain' ? 'object-contain' : 'object-cover'}`}
+                    style={project.image_position && project.image_position !== 'contain' ? { objectPosition: project.image_position } : undefined}
+                  />
+                </div>
                 <div className="p-6">
                   {/* Header */}
                   <div className="flex justify-between items-start mb-4">

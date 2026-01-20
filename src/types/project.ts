@@ -2,6 +2,7 @@ export interface Project {
   name: string;
   kickstarter_url: string;
   image_url: string;
+  image_position?: string;
   amount_raised: number;
   backers: number;
   goal: number;
