@@ -9,7 +9,7 @@ const roboto = Roboto({
 });
 
 export const metadata: Metadata = {
-  title: "Kickstarter Graveyard",
+  title: "Crowdfunding Graveyard",
   description: "A database of failed Kickstarter hardware projects",
 };
 
